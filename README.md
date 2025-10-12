@@ -128,44 +128,32 @@ class TokeneticsAI:
 
 <table>
 <tr>
-<td align="center" width="33%">
+<td align="center" width="25%">
 <h3>🧠 Tokenetics AI</h3>
 <p><em>Advanced Market Intelligence Platform</em></p>
 <p>Next.js • Python AI • 3D Visualization</p>
 <a href="https://tokenetics.space">🌐 Live Platform</a>
 </td>
-<td align="center" width="33%">
+<td align="center" width="25%">
 <h3>🔮 CryptoSentinel</h3>
 <p><em>Market Movement Prediction Engine</em></p>
 <p>Python • Machine Learning • Technical Analysis</p>
 <a href="https://github.com/KingRaver/CryptoSentinel">📊 View Code</a>
 </td>
-<td align="center" width="33%">
+<td align="center" width="25%">
 <h3>🤖 X Reply Agent</h3>
 <p><em>AI-Powered Social Intelligence</em></p>
 <p>Python • NLP • Real-time Processing</p>
 <a href="https://github.com/KingRaver/bull">🐦 View Project</a>
 </td>
+<td align="center" width="25%">
+<h3>📡 Unifi Monitor</h3>
+<p><em>Camera & Network Intelligence via Telegram</em></p>
+<p>Python • Unifi API • Real-time Alerts</p>
+<a href="https://railway.com/deploy/waking-life-server">🚀 Deploy on Railway</a>
+</td>
 </tr>
 </table>
-
-</div>
-
----
-
-## 🛡️ **Infrastructure & Deployment Templates**
-
-<div align="center">
-
-### 🎥 **Waking Life Server** • *Unifi Network Intelligence*
-
-Real-time camera surveillance, network monitoring, and intelligent alerting via Telegram. Enterprise-grade security monitoring made accessible through conversational interfaces.
-
-**Features:** Live camera snapshots • Motion detection alerts • Network health monitoring • Device status tracking • Bandwidth analytics • Interactive Telegram commands
-
-[![Deploy on Railway](https://railway.app/button.svg)](https://railway.com/deploy/waking-life-server)
-
-*One-click deployment of production-ready Unifi monitoring infrastructure*
 
 </div>
 
