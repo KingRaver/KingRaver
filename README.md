@@ -141,10 +141,10 @@ class TokeneticsAI:
 <a href="https://github.com/KingRaver/CryptoSentinel">📊 View Code</a>
 </td>
 <td align="center" width="25%">
-<h3>🤖 X Reply Agent</h3>
+<h3>🤖 DeFi Social Agent</h3>
 <p><em>AI-Powered Social Intelligence</em></p>
 <p>Python • NLP • Real-time Processing</p>
-<a href="https://github.com/KingRaver/bull">🐦 View Project</a>
+<a href="https://github.com/KingRaver/defi">🐦 View Project</a>
 </td>
 <td align="center" width="25%">
 <h3>📡 Unifi Monitor</h3>
