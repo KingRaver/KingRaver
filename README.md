@@ -153,6 +153,24 @@ class TokeneticsAI:
 
 ---
 
+## 🛡️ **Infrastructure & Deployment Templates**
+
+<div align="center">
+
+### 🎥 **Waking Life Server** • *Unifi Network Intelligence*
+
+Real-time camera surveillance, network monitoring, and intelligent alerting via Telegram. Enterprise-grade security monitoring made accessible through conversational interfaces.
+
+**Features:** Live camera snapshots • Motion detection alerts • Network health monitoring • Device status tracking • Bandwidth analytics • Interactive Telegram commands
+
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.com/deploy/waking-life-server)
+
+*One-click deployment of production-ready Unifi monitoring infrastructure*
+
+</div>
+
+---
+
 ## 🌌 **The Vision**
 
 <div align="center">
