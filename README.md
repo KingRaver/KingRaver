@@ -1,4 +1,4 @@
-# 🛸 Jeff Spirlock | KingRaver • **Building the Future of Finance** 
+# 🛸 Jeff Vision | Vivid Visions • **Building the Future of Finance** 
 
 <div align="center">
 
