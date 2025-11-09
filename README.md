@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=28&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&multiline=true&width=900&height=120&lines=Founder+%26+CEO+of+Tokenetics+AI;Advanced+Market+Intelligence+Platform;Turning+Neural+Networks+into+Alpha)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=28&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&multiline=true&width=900&height=120&lines=Founder+%26+CEO+of+Tokenetics;Advanced+Market+Intelligence+Platform;Turning+Neural+Networks+into+Alpha)](https://git.io/typing-svg)
 
 <img src="https://raw.githubusercontent.com/KingRaver/KingRaver/main/assets/tokenetics-banner.gif" alt="Tokenetics AI Platform" width="800"/>
 
@@ -14,12 +14,12 @@
 
 ## 🚀 **The Tokenetics Revolution**
 
-I'm the architect behind **[Tokenetics AI](https://tokenetics.space)** - the world's most advanced AI-powered portfolio intelligence platform. Where institutional-grade analysis meets cutting-edge visualization, delivering insights that were previously impossible.
+I'm the architect behind **[Tokenetics](https://tokenetics.space)** - the world's most advanced AI-powered portfolio intelligence platform. Where institutional-grade analysis meets cutting-edge visualization, delivering insights that were previously impossible.
 
 <div align="center">
 
 ```python
-class TokeneticsAI:
+class Tokenetics:
     def __init__(self):
         self.prediction_engine = "Advanced Neural Networks"
         self.portfolio_analyzer = "Real-time Risk Assessment" 
@@ -29,7 +29,7 @@ class TokeneticsAI:
     def disrupt_finance(self):
         return "Making billion-dollar insights accessible to everyone"
 
->>> platform = TokeneticsAI()
+>>> platform = Tokenetics()
 >>> platform.disrupt_finance()
 'Making billion-dollar insights accessible to everyone'
 ```
@@ -42,7 +42,7 @@ class TokeneticsAI:
 <tr>
 <td width="50%">
 
-**🎯 AI Market Analysis Agent**
+**🎯 Market Analysis Agent**
 - Real-time market sentiment analysis
 - Pattern recognition across 1000+ tokens
 - Behavioral prediction algorithms
