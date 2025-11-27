@@ -86,6 +86,9 @@ class Tokenetics:
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
 ![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white)
+![TanStack Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge&logo=react&logoColor=white)
+![React Intersection Observer](https://img.shields.io/badge/React_Intersection_Observer-61DAFB?style=for-the-badge&logo=react&logoColor=white)
+![Turbopack](https://img.shields.io/badge/Turbopack-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 ### **3D Visualization & Animation**
 ![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
@@ -111,6 +114,8 @@ class Tokenetics:
 ![Scikit Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Perplexity](https://img.shields.io/badge/Perplexity-20808D?style=for-the-badge&logo=perplexity&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-1A1A1A?style=for-the-badge&logo=anthropic&logoColor=white)
+![Anthropic SDK](https://img.shields.io/badge/Anthropic_SDK-191919?style=for-the-badge&logo=anthropic&logoColor=white)
 
 ### **Data Science & Analytics**
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
@@ -126,6 +131,8 @@ class Tokenetics:
 ![OnchainKit](https://img.shields.io/badge/OnchainKit-0052FF?style=for-the-badge&logo=coinbase&logoColor=white)
 ![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white)
 ![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
+![Reown AppKit](https://img.shields.io/badge/Reown_AppKit-FF6B35?style=for-the-badge&logo=web3&logoColor=white)
+![Eth Account](https://img.shields.io/badge/Eth_Account-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
 
 ### **Performance & Optimization**
 ![Numba](https://img.shields.io/badge/Numba-00A3E0?style=for-the-badge&logo=numba&logoColor=white)
@@ -133,6 +140,7 @@ class Tokenetics:
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![APScheduler](https://img.shields.io/badge/APScheduler-009485?style=for-the-badge&logo=clockify&logoColor=white)
 ![Celery](https://img.shields.io/badge/Celery-37B24D?style=for-the-badge&logo=celery&logoColor=white)
+![AnyIO](https://img.shields.io/badge/AnyIO-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 
 ### **APIs & Blockchain Data**
 ![Moralis](https://img.shields.io/badge/Moralis-2559BB?style=for-the-badge&logo=ethereum&logoColor=white)
@@ -140,6 +148,7 @@ class Tokenetics:
 ![CoinMarketCap](https://img.shields.io/badge/CoinMarketCap-17D4FE?style=for-the-badge&logo=coinmarketcap&logoColor=white)
 ![Google Workspace](https://img.shields.io/badge/Google_Workspace-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![Telegram Bot API](https://img.shields.io/badge/Telegram_Bot_API-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)
+![PyCoingecko](https://img.shields.io/badge/PyCoingecko-8DC647?style=for-the-badge&logo=coingecko&logoColor=white)
 
 ### **Security & Authentication**
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
@@ -147,12 +156,18 @@ class Tokenetics:
 ![BCrypt](https://img.shields.io/badge/BCrypt-338833?style=for-the-badge&logo=letsencrypt&logoColor=white)
 ![Python Jose](https://img.shields.io/badge/Python_Jose-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![Passlib](https://img.shields.io/badge/Passlib-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![PyNaCl](https://img.shields.io/badge/PyNaCl-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![Argon2](https://img.shields.io/badge/Argon2-336791?style=for-the-badge&logo=security&logoColor=white)
+![Google Auth](https://img.shields.io/badge/Google_Auth-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Google Auth HTTPLib2](https://img.shields.io/badge/Google_Auth_HTTPLib2-4285F4?style=for-the-badge&logo=google&logoColor=white)
 
 ### **Data Processing & Validation**
 ![Marshmallow](https://img.shields.io/badge/Marshmallow-E92063?style=for-the-badge&logo=python&logoColor=white)
 ![OrJSON](https://img.shields.io/badge/OrJSON-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![Email Validator](https://img.shields.io/badge/Email_Validator-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![Tenacity](https://img.shields.io/badge/Tenacity-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![ShortUUID](https://img.shields.io/badge/ShortUUID-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![Python DateUtil](https://img.shields.io/badge/Python_DateUtil-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 
 ### **Monitoring & Rate Limiting**
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
@@ -164,10 +179,22 @@ class Tokenetics:
 ![Python Multipart](https://img.shields.io/badge/Multipart_Forms-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![AIOFiles](https://img.shields.io/badge/AIOFiles-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 
+### **Communication & Notifications**
+![SendGrid](https://img.shields.io/badge/SendGrid-FFD43B?style=for-the-badge&logo=sendgrid&logoColor=blue)
+![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=twilio&logoColor=white)
+![PyWebPush](https://img.shields.io/badge/PyWebPush-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+
 ### **Testing & Development**
 ![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
 ![Pytest Asyncio](https://img.shields.io/badge/Pytest_Asyncio-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![HTTPx OAuth](https://img.shields.io/badge/HTTPx_OAuth-009485?style=for-the-badge&logo=oauth&logoColor=white)
+
+### **Code Quality & Formatting**
+![Black](https://img.shields.io/badge/Black-000000?style=for-the-badge&logo=python&logoColor=white)
+![MyPy](https://img.shields.io/badge/MyPy-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![Ruff](https://img.shields.io/badge/Ruff-D7FF64?style=for-the-badge&logo=ruff&logoColor=black)
+![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white)
 
 ### **Infrastructure & Deployment**
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
