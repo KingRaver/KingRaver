@@ -164,13 +164,13 @@ class Tokenetics:
 <tr>
 <td align="center" width="25%">
 <h3>🧠 Tokenetics</h3>
-<p><em>Advanced Market Intelligence Platform</em></p>
+<p><em>Advanced Market Intelligence</em></p>
 <p>Next.js • Python AI • 3D Visualization</p>
 <a href="https://tokenetics.space">🌐 Live Platform</a>
 </td>
 <td align="center" width="25%">
 <h3>🔮 CryptoSentinel</h3>
-<p><em>Market Movement Prediction Engine</em></p>
+<p><em>Market Movement Engine</em></p>
 <p>Python • Machine Learning • Technical Analysis</p>
 <a href="https://github.com/KingRaver/CryptoSentinel">📊 View Code</a>
 </td>
@@ -182,7 +182,7 @@ class Tokenetics:
 </td>
 <td align="center" width="25%">
 <h3>📡 Mycelium Chat</h3>
-<p><em>Enterprise Event Logistics Platform</em></p>
+<p><em>Enterprise Event Logistics</em></p>
 <p>FastAPI • Multi-Source Webhooks • AI Summaries</p>
 <a href="https://railway.app/deploy">🚀 Deploy on Railway</a>
 </td>
