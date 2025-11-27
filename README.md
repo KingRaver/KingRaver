@@ -199,7 +199,7 @@ class Tokenetics:
 
 > **"Advanced neural networks meet real-time market data to deliver insights that were previously impossible"**
 
-**Making institutional-grade financial intelligence accessible to everyone through beautiful, intuitive interfaces.**
+**Making enterprise-grade financial intelligence accessible to everyone through beautiful, intuitive interfaces.**
 
 </div>
 
