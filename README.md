@@ -84,15 +84,26 @@ class Tokenetics:
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
+![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white)
+
+### **3D Visualization & Animation**
 ![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
+![React Intersection Observer](https://img.shields.io/badge/Intersection_Observer-61DAFB?style=for-the-badge&logo=react&logoColor=white)
+![CSS Transforms](https://img.shields.io/badge/CSS_3D-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ### **Backend: Python Infrastructure**
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white)
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white)
-![Alembic](https://img.shields.io/badge/Alembic-6BA81E?style=for-the-badge&logo=python&logoColor=white)
 ![Uvicorn](https://img.shields.io/badge/Uvicorn-2C5BB4?style=for-the-badge&logo=gunicorn&logoColor=white)
+![Starlette](https://img.shields.io/badge/Starlette-FF4B4B?style=for-the-badge&logo=starlette&logoColor=white)
+
+### **Database & ORM**
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white)
+![AsyncPG](https://img.shields.io/badge/AsyncPG-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Alembic](https://img.shields.io/badge/Alembic-6BA81E?style=for-the-badge&logo=python&logoColor=white)
 
 ### **AI & Machine Learning**
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
@@ -108,35 +119,59 @@ class Tokenetics:
 ![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
 
+### **Blockchain & Web3**
+![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
+![Wagmi](https://img.shields.io/badge/Wagmi-1C1B1B?style=for-the-badge&logo=ethereum&logoColor=white)
+![Viem](https://img.shields.io/badge/Viem-646CFF?style=for-the-badge&logo=ethereum&logoColor=white)
+![OnchainKit](https://img.shields.io/badge/OnchainKit-0052FF?style=for-the-badge&logo=coinbase&logoColor=white)
+![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white)
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
+
 ### **Performance & Optimization**
 ![Numba](https://img.shields.io/badge/Numba-00A3E0?style=for-the-badge&logo=numba&logoColor=white)
 ![Apache Arrow](https://img.shields.io/badge/Apache_Arrow-FF6600?style=for-the-badge&logo=apache&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![APScheduler](https://img.shields.io/badge/APScheduler-009485?style=for-the-badge&logo=clockify&logoColor=white)
+![Celery](https://img.shields.io/badge/Celery-37B24D?style=for-the-badge&logo=celery&logoColor=white)
 
-### **Database & Storage**
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-
-### **Blockchain & Web3**
-![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
-![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white)
-
-### **APIs & Integrations**
+### **APIs & Blockchain Data**
+![Moralis](https://img.shields.io/badge/Moralis-2559BB?style=for-the-badge&logo=ethereum&logoColor=white)
+![CoinGecko](https://img.shields.io/badge/CoinGecko-8DC647?style=for-the-badge&logo=coingecko&logoColor=white)
+![CoinMarketCap](https://img.shields.io/badge/CoinMarketCap-17D4FE?style=for-the-badge&logo=coinmarketcap&logoColor=white)
 ![Google Workspace](https://img.shields.io/badge/Google_Workspace-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![Telegram Bot API](https://img.shields.io/badge/Telegram_Bot_API-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)
-![OpenWeatherMap](https://img.shields.io/badge/OpenWeatherMap-EB6E4B?style=for-the-badge&logo=openweathermap&logoColor=white)
 
-### **Automation & Testing**
+### **Security & Authentication**
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![BCrypt](https://img.shields.io/badge/BCrypt-338833?style=for-the-badge&logo=letsencrypt&logoColor=white)
+![Python Jose](https://img.shields.io/badge/Python_Jose-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![Passlib](https://img.shields.io/badge/Passlib-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+
+### **Data Processing & Validation**
+![Marshmallow](https://img.shields.io/badge/Marshmallow-E92063?style=for-the-badge&logo=python&logoColor=white)
+![OrJSON](https://img.shields.io/badge/OrJSON-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![Email Validator](https://img.shields.io/badge/Email_Validator-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![Tenacity](https://img.shields.io/badge/Tenacity-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+
+### **Monitoring & Rate Limiting**
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Slowapi](https://img.shields.io/badge/Rate_Limiting-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Structlog](https://img.shields.io/badge/Structlog-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+
+### **Form Handling & File Processing**
+![Formspree](https://img.shields.io/badge/Formspree-FA7268?style=for-the-badge&logo=mailgun&logoColor=white)
+![Python Multipart](https://img.shields.io/badge/Multipart_Forms-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![AIOFiles](https://img.shields.io/badge/AIOFiles-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+
+### **Testing & Development**
+![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
+![Pytest Asyncio](https://img.shields.io/badge/Pytest_Asyncio-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 
 ### **Infrastructure & Deployment**
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white)
-
-### **Security & Authentication**
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
-![BCrypt](https://img.shields.io/badge/BCrypt-338833?style=for-the-badge&logo=letsencrypt&logoColor=white)
 
 </div>
 
