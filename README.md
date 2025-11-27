@@ -169,10 +169,10 @@ class Tokenetics:
 <a href="https://tokenetics.space">🌐 Live Platform</a>
 </td>
 <td align="center" width="25%">
-<h3>🔮 CryptoSentinel</h3>
-<p><em>Market Movement Engine</em></p>
+<h3>🔮 Market Maker</h3>
+<p><em>Market Creation Engine</em></p>
 <p>Python • Machine Learning • Technical Analysis</p>
-<a href="https://github.com/KingRaver/CryptoSentinel">📊 View Code</a>
+<a href="https://github.com/KingRaver/market_maker">📊 View Code</a>
 </td>
 <td align="center" width="25%">
 <h3>🤖 Social Influencer</h3>
