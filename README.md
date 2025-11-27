@@ -163,7 +163,7 @@ class Tokenetics:
 <table>
 <tr>
 <td align="center" width="25%">
-<h3>🧠 Tokenetics AI</h3>
+<h3>🧠 Tokenetics</h3>
 <p><em>Advanced Market Intelligence Platform</em></p>
 <p>Next.js • Python AI • 3D Visualization</p>
 <a href="https://tokenetics.space">🌐 Live Platform</a>
@@ -175,10 +175,10 @@ class Tokenetics:
 <a href="https://github.com/KingRaver/CryptoSentinel">📊 View Code</a>
 </td>
 <td align="center" width="25%">
-<h3>🤖 DeFi Social Agent</h3>
+<h3>🤖 Karma Social Agent</h3>
 <p><em>AI-Powered Social Intelligence</em></p>
 <p>Python • NLP • Real-time Processing</p>
-<a href="https://github.com/KingRaver/defi">🐦 View Project</a>
+<a href="https://github.com/KingRaver/karma">🐦 View Project</a>
 </td>
 <td align="center" width="25%">
 <h3>📡 Mycelium Chat</h3>
