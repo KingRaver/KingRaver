@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=28&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&multiline=true&width=900&height=120&lines=Founder+%26+CEO+of+Tokenetics;Advanced+Market+Intelligence+Platform;Turning+Neural+Networks+into+Alpha)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=28&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&multiline=true&width=900&height=120&lines=Vision+Director+of+Tokenetics;Advanced+Market+Intelligence+Platform;Turning+Neural+Networks+into+Alpha)](https://git.io/typing-svg)
 
 <img src="https://raw.githubusercontent.com/KingRaver/KingRaver/main/assets/tokenetics-banner.gif" alt="Tokenetics AI Platform" width="800"/>
 
