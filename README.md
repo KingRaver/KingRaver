@@ -1,6 +1,4 @@
-<div style="text-align:center;">
-# 🛸 Vivid Visions |  **Building the Future of Finance**
-</div>
+<h1 align="center">🛸 Vivid Visions | <strong>Building the Future of Finance</strong></h1>
 
 
 <div align="center">
