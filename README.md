@@ -1,4 +1,4 @@
-# 🛸 Vivid Visions |  **Building the Future of Finance** 
+<center> # 🛸 Vivid Visions |  **Building the Future of Finance** 
 
 <div align="center">
 
