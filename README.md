@@ -1,6 +1,6 @@
-<p align="center">
+<div style="text-align:center;">
 # 🛸 Vivid Visions |  **Building the Future of Finance**
-</p>
+</div>
 
 
 <div align="center">
