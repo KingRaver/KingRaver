@@ -136,6 +136,9 @@ class Tokenetics:
 
 ### **Blockchain & Web3**
 ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
+![Base](https://img.shields.io/badge/Base-Purple?style=for-the-badge&logo=base&logoColor=white)
+![Optimism](https://img.shields.io/badge/Optimism-Red?style=for-the-badge&logo=optimism&logoColor=white)
+![Polygon](https://img.shields.io/badge/Polygon-Purple?style=for-the-badge&logo=polygon&logoColor=white)
 ![Wagmi](https://img.shields.io/badge/Wagmi-1C1B1B?style=for-the-badge&logo=ethereum&logoColor=white)
 ![Viem](https://img.shields.io/badge/Viem-646CFF?style=for-the-badge&logo=ethereum&logoColor=white)
 ![OnchainKit](https://img.shields.io/badge/OnchainKit-0052FF?style=for-the-badge&logo=coinbase&logoColor=white)
