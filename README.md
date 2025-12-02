@@ -108,6 +108,8 @@ class Tokenetics:
 ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white)
 ![AsyncPG](https://img.shields.io/badge/AsyncPG-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Alembic](https://img.shields.io/badge/Alembic-6BA81E?style=for-the-badge&logo=python&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
 
 ### **AI & Machine Learning**
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
