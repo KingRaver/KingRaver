@@ -103,13 +103,20 @@ class Tokenetics:
 ![Uvicorn](https://img.shields.io/badge/Uvicorn-2C5BB4?style=for-the-badge&logo=gunicorn&logoColor=white)
 ![Starlette](https://img.shields.io/badge/Starlette-FF4B4B?style=for-the-badge&logo=starlette&logoColor=white)
 
+### **Backend: Node.js**
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongodb&logoColor=white)
+![JSON_Web_Tokens](https://img.shields.io/badge/JSON_Web_Tokens-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![Dotenv](https://img.shields.io/badge/Dotenv-FFD43B?style=for-the-badge&logo=dotenv&logoColor=blue)
+![Nodemon](https://img.shields.io/badge/Nodemon-76DA20?style=for-the-badge&logo=nodemon&logoColor=black)
+
 ### **Database & ORM**
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white)
 ![AsyncPG](https://img.shields.io/badge/AsyncPG-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Alembic](https://img.shields.io/badge/Alembic-6BA81E?style=for-the-badge&logo=python&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-
 
 ### **AI & Machine Learning**
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
