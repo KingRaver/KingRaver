@@ -143,6 +143,8 @@ class Tokenetics:
 ![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
 ![Reown AppKit](https://img.shields.io/badge/Reown_AppKit-FF6B35?style=for-the-badge&logo=web3&logoColor=white)
 ![Eth Account](https://img.shields.io/badge/Eth_Account-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
+![Ethers](https://img.shields.io/badge/Ethers-647CFF?style=for-the-badge&logo=ethereum&logoColor=white)
+![WalletConnect](https://img.shields.io/badge/WalletConnect-3396FF?style=for-the-badge&logo=walletconnect&logoColor=white)
 
 ### **Performance & Optimization**
 ![Numba](https://img.shields.io/badge/Numba-00A3E0?style=for-the-badge&logo=numba&logoColor=white)
