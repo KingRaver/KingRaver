@@ -160,6 +160,8 @@ class Tokenetics:
 
 ### **APIs & Blockchain Data**
 ![Moralis](https://img.shields.io/badge/Moralis-2559BB?style=for-the-badge&logo=ethereum&logoColor=white)
+![Alchemy](https://img.shields.io/badge/Alchemy-5D00FF?style=for-the-badge&logo=alchemy&logoColor=white)
+![OpenSea](https://img.shields.io/badge/OpenSea-2081E2?style=for-the-badge&logo=opensea&logoColor=white)
 ![CoinGecko](https://img.shields.io/badge/CoinGecko-8DC647?style=for-the-badge&logo=coingecko&logoColor=white)
 ![CoinMarketCap](https://img.shields.io/badge/CoinMarketCap-17D4FE?style=for-the-badge&logo=coinmarketcap&logoColor=white)
 ![Google Workspace](https://img.shields.io/badge/Google_Workspace-4285F4?style=for-the-badge&logo=google&logoColor=white)
