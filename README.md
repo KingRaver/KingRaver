@@ -146,8 +146,6 @@ class Tokenetics:
 ![Ethers](https://img.shields.io/badge/Ethers-647CFF?style=for-the-badge&logo=ethereum&logoColor=white)
 ![WalletConnect](https://img.shields.io/badge/WalletConnect-3396FF?style=for-the-badge&logo=walletconnect&logoColor=white)
 ![MetaMask](https://img.shields.io/badge/MetaMask-F6851B?style=for-the-badge&logo=metamask.io&logoColor=white)
-![MetaMask](https://img.shields.io/badge/MetaMask-Orange?style=for-the-badge&logo=metamask.io&logoColor=white)
-![MetaMask](https://img.shields.io/badge/MetaMask-F6851B?style=for-the-badge&logo=metamask&logoColor=white)
 
 ### **Performance & Optimization**
 ![Numba](https://img.shields.io/badge/Numba-00A3E0?style=for-the-badge&logo=numba&logoColor=white)
