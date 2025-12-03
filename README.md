@@ -139,7 +139,11 @@ class Tokenetics:
 ![Base](https://img.shields.io/badge/Base-3C3C3D?style=for-the-badge&logo=base&logoColor=white)
 ![Optimism](https://img.shields.io/badge/Optimism-FF0420?style=for-the-badge&logo=optimism&logoColor=white)
 ![Polygon](https://img.shields.io/badge/Polygon-8247E5?style=for-the-badge&logo=polygon&logoColor=white)
+![Arbitrum](https://img.shields.io/badge/Arbitrum-2D374B?style=for-the-badge&logo=arbitrum&logoColor=white)
+![Avalanche](https://img.shields.io/badge/Avalanche-E84142?style=for-the-badge&logo=avalanche&logoColor=white)
+![Fantom](https://img.shields.io/badge/Fantom-1969FF?style=for-the-badge&logo=fantom&logoColor=white)
 ![Wagmi](https://img.shields.io/badge/Wagmi-1C1B1B?style=for-the-badge&logo=ethereum&logoColor=white)
+![The Graph](https://img.shields.io/badge/The_Graph-0C0A1C?style=for-the-badge&logo=thegraph&logoColor=white)
 ![Viem](https://img.shields.io/badge/Viem-646CFF?style=for-the-badge&logo=ethereum&logoColor=white)
 ![OnchainKit](https://img.shields.io/badge/OnchainKit-0052FF?style=for-the-badge&logo=coinbase&logoColor=white)
 ![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white)
@@ -149,6 +153,14 @@ class Tokenetics:
 ![Ethers](https://img.shields.io/badge/Ethers-647CFF?style=for-the-badge&logo=ethereum&logoColor=white)
 ![WalletConnect](https://img.shields.io/badge/WalletConnect-3396FF?style=for-the-badge&logo=walletconnect&logoColor=white)
 ![MetaMask](https://img.shields.io/badge/MetaMask-F6851B?style=for-the-badge&logo=metamask.io&logoColor=white)
+
+### **Defi Protocols**
+![Uniswap](https://img.shields.io/badge/Uniswap-FF007A?style=for-the-badge&logo=uniswap&logoColor=white)
+![SushiSwap](https://img.shields.io/badge/SushiSwap-FA52A0?style=for-the-badge&logo=sushiswap&logoColor=white)
+![Aave](https://img.shields.io/badge/Aave-B6509E?style=for-the-badge&logo=aave&logoColor=white)
+![Compound](https://img.shields.io/badge/Compound-00D395?style=for-the-badge&logo=compound&logoColor=white)
+![Curve Finance](https://img.shields.io/badge/Curve_Finance-40E0D0?style=for-the-badge&logo=curve&logoColor=white)
+![Balancer](https://img.shields.io/badge/Balancer-1E1E1E?style=for-the-badge&logo=balancer&logoColor=white)
 
 ### **Performance & Optimization**
 ![Numba](https://img.shields.io/badge/Numba-00A3E0?style=for-the-badge&logo=numba&logoColor=white)
@@ -165,6 +177,9 @@ class Tokenetics:
 ![CoinMarketCap](https://img.shields.io/badge/CoinMarketCap-17D4FE?style=for-the-badge&logo=coinmarketcap&logoColor=white)
 ![Moralis](https://img.shields.io/badge/Moralis-2559BB?style=for-the-badge&logo=ethereum&logoColor=white)
 ![PyCoingecko](https://img.shields.io/badge/PyCoingecko-8DC647?style=for-the-badge&logo=coingecko&logoColor=white)
+![SlowAPI](https://img.shields.io/badge/SlowAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-1A1A1A?style=for-the-badge&logo=anthropic&logoColor=white)
+![Prometheus Client](https://img.shields.io/badge/Prometheus_Client-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
 ![Telegram Bot API](https://img.shields.io/badge/Telegram_Bot_API-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)
 ![Google Workspace](https://img.shields.io/badge/Google_Workspace-4285F4?style=for-the-badge&logo=google&logoColor=white)
 
@@ -217,6 +232,9 @@ class Tokenetics:
 ### **Infrastructure & Deployment**
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white)
+
+## **Payment Processing**
+![Stripe](https://img.shields.io/badge/Stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white)
 
 </div>
 
