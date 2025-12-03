@@ -153,7 +153,7 @@ class Tokenetics:
 ![WalletConnect](https://img.shields.io/badge/WalletConnect-3396FF?style=for-the-badge&logo=walletconnect&logoColor=white)
 ![MetaMask](https://img.shields.io/badge/MetaMask-F6851B?style=for-the-badge&logo=metamask.io&logoColor=white)
 
-### **Defi Protocols**
+### **DeFi Protocols**
 ![Uniswap](https://img.shields.io/badge/Uniswap-FF007A?style=for-the-badge&logo=uniswap&logoColor=white)
 ![SushiSwap](https://img.shields.io/badge/SushiSwap-FA52A0?style=for-the-badge&logo=sushiswap&logoColor=white)
 ![Aave](https://img.shields.io/badge/Aave-B6509E?style=for-the-badge&logo=aave&logoColor=white)
