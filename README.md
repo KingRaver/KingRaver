@@ -143,7 +143,6 @@ class Tokenetics:
 ![Avalanche](https://img.shields.io/badge/Avalanche-E84142?style=for-the-badge&logo=avalanche&logoColor=white)
 ![Fantom](https://img.shields.io/badge/Fantom-1969FF?style=for-the-badge&logo=fantom&logoColor=white)
 ![Wagmi](https://img.shields.io/badge/Wagmi-1C1B1B?style=for-the-badge&logo=ethereum&logoColor=white)
-![The Graph](https://img.shields.io/badge/The_Graph-0C0A1C?style=for-the-badge&logo=thegraph&logoColor=white)
 ![Viem](https://img.shields.io/badge/Viem-646CFF?style=for-the-badge&logo=ethereum&logoColor=white)
 ![OnchainKit](https://img.shields.io/badge/OnchainKit-0052FF?style=for-the-badge&logo=coinbase&logoColor=white)
 ![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white)
@@ -178,7 +177,6 @@ class Tokenetics:
 ![Moralis](https://img.shields.io/badge/Moralis-2559BB?style=for-the-badge&logo=ethereum&logoColor=white)
 ![PyCoingecko](https://img.shields.io/badge/PyCoingecko-8DC647?style=for-the-badge&logo=coingecko&logoColor=white)
 ![SlowAPI](https://img.shields.io/badge/SlowAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![MCP](https://img.shields.io/badge/MCP-1A1A1A?style=for-the-badge&logo=anthropic&logoColor=white)
 ![Prometheus Client](https://img.shields.io/badge/Prometheus_Client-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
 ![Telegram Bot API](https://img.shields.io/badge/Telegram_Bot_API-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)
 ![Google Workspace](https://img.shields.io/badge/Google_Workspace-4285F4?style=for-the-badge&logo=google&logoColor=white)
@@ -232,6 +230,9 @@ class Tokenetics:
 ### **Infrastructure & Deployment**
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white)
+
+### **Blockchain Indexing**
+![The Graph](https://img.shields.io/badge/The_Graph-0C0A1C?style=for-the-badge&logo=thegraph&logoColor=white)
 
 ### **Payment Processing**
 ![Stripe](https://img.shields.io/badge/Stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white)
