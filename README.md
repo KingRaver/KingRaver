@@ -237,6 +237,7 @@ class Tokenetics:
 ### **Payment Processing**
 ![Stripe](https://img.shields.io/badge/Stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white)
 ![NOWPayments](https://img.shields.io/badge/NOWPayments-00D4AA?style=for-the-badge&logo=nowpayments&logoColor=white)
+![Square](https://img.shields.io/badge/Square-3E4348?style=for-the-badge&logo=square&logoColor=white)
 
 </div>
 
