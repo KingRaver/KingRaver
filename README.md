@@ -1,4 +1,4 @@
-<h1 align="center"> <strong>Building the Future of Finance</strong></h1>
+<h1 align="center"> <strong>From Vision to Value</strong></h1>
 
 
 <div align="center">
