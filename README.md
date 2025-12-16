@@ -264,11 +264,17 @@ class Tokenetics:
 <table>
 <tr>
 <td align="center" width="25%">
-<h3>🧠 Tokenetics</h3>
-<p><em>Advanced Market Intelligence</em></p>
-<p>Next.js • Python AI • 3D Visualization</p>
-<a href="https://tokenetics.space">🌐 Live Platform</a>
+<h3>📡 EventInfraMonitor</h3>
+<p><em>Enterprise Event Logistics</em></p>
+<p>FastAPI • Multi-Source Webhooks • Alerts</p>
+<a href="https://github.com/KingRaver/Ubiquiti_Telegram_Automation">🚀 View Project</a>
 </td>
+<td align="center" width="25%">
+<h3>🤖 Social Influencer</h3>
+<p><em>AI-Powered Social Intelligence</em></p>
+<p>Python • NLP • Real-time Processing</p>
+<a href="https://github.com/KingRaver/karma">🐦 View Project</a>    
+</td>    
 <td align="center" width="25%">
 <h3>🔮 Market Maker</h3>
 <p><em>Market Creation Engine</em></p>
@@ -276,17 +282,11 @@ class Tokenetics:
 <a href="https://github.com/KingRaver/market_maker">📊 View Code</a>
 </td>
 <td align="center" width="25%">
-<h3>🤖 Social Influencer</h3>
-<p><em>AI-Powered Social Intelligence</em></p>
-<p>Python • NLP • Real-time Processing</p>
-<a href="https://github.com/KingRaver/karma">🐦 View Project</a>
-</td>
-<td align="center" width="25%">
-<h3>📡 Telegram Automation</h3>
-<p><em>Enterprise Event Logistics</em></p>
-<p>FastAPI • Multi-Source Webhooks • Alerts</p>
-<a href="https://github.com/KingRaver/Ubiquiti_Telegram_Automation">🚀 View Project</a>
-</td>
+<h3>🧠 Tokenetics</h3>
+<p><em>Advanced Market Intelligence</em></p>
+<p>Next.js • Python AI • 3D Visualization</p>
+<a href="https://tokenetics.space">🌐 Live Platform</a>
+</td>    
 </tr>
 </table>
 
