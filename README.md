@@ -282,10 +282,10 @@ class Tokenetics:
 <a href="https://github.com/KingRaver/karma">🐦 View Project</a>
 </td>
 <td align="center" width="25%">
-<h3>📡 Mycelium Chat</h3>
+<h3>📡 Telegram Alert Automation</h3>
 <p><em>Enterprise Event Logistics</em></p>
 <p>FastAPI • Multi-Source Webhooks • AI Summaries</p>
-<a href="https://railway.app/deploy">🚀 Deploy on Railway</a>
+<a href="[https://railway.app/deploy](https://github.com/KingRaver/Ubiquiti_Telegram_Automation)">🚀 Deploy on Railway</a>
 </td>
 </tr>
 </table>
