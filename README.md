@@ -282,9 +282,9 @@ class Tokenetics:
 <a href="https://github.com/KingRaver/karma">🐦 View Project</a>
 </td>
 <td align="center" width="25%">
-<h3>📡 Telegram Alert Automation</h3>
+<h3>📡 Telegram Automation</h3>
 <p><em>Enterprise Event Logistics</em></p>
-<p>FastAPI • Multi-Source Webhooks • AI Summaries</p>
+<p>FastAPI • Multi-Source Webhooks • Alerts</p>
 <a href="https://github.com/KingRaver/Ubiquiti_Telegram_Automation">🚀 View Project</a>
 </td>
 </tr>
