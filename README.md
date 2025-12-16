@@ -285,7 +285,7 @@ class Tokenetics:
 <h3>📡 Telegram Alert Automation</h3>
 <p><em>Enterprise Event Logistics</em></p>
 <p>FastAPI • Multi-Source Webhooks • AI Summaries</p>
-<a href="[https://railway.app/deploy](https://github.com/KingRaver/Ubiquiti_Telegram_Automation)">🚀 Deploy on Railway</a>
+<a href="https://github.com/KingRaver/Ubiquiti_Telegram_Automation">🚀 View Project</a>
 </td>
 </tr>
 </table>
