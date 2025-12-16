@@ -279,7 +279,7 @@ class Tokenetics:
 <h3>🔮 Market Maker</h3>
 <p><em>Market Creation Engine</em></p>
 <p>Python • Machine Learning • Technical Analysis</p>
-<a href="https://github.com/KingRaver/market_maker">📊 View Code</a>
+<a href="https://github.com/KingRaver/market_maker">📊 View Project</a>
 </td>
 <td align="center" width="25%">
 <h3>🧠 Tokenetics</h3>
