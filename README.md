@@ -320,7 +320,7 @@ class Tokenetics:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/smallmovez/)
 [![Substack](https://img.shields.io/badge/Substack-FF6719?style=for-the-badge&logo=substack&logoColor=white)](https://substack.com/@neuralmosaic)
 [![Linktree](https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/jeffspirlock)
-[![Website](https://img.shields.io/badge/tokenetics.space-7C3AED?style=for-the-badge&logo=google-chrome&logoColor=white)](https://tokenetics.space)
+[![Website](https://img.shields.io/badge/vividvisions.digital-7C3AED?style=for-the-badge&logo=google-chrome&logoColor=white)](https://vividvisions.digital)
 
 ### 💼 **Open for:**
 - 🚀 Strategic partnerships in fintech/AI space
