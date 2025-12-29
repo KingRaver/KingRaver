@@ -18,7 +18,7 @@
 **[Vivid Visions](https://vividvisions.digital)** is a design and development studio focused on building AI-powered platforms, privacy-first infrastructure, and next-generation digital experiences. We operate at the intersection of machine learning, blockchain technology, and human-centric design—creating tools that are as beautiful as they are powerful.
 
 <div align="center">
-```python
+
 class VividVisions:
     """Design Studio | AI Innovation | Web3 Infrastructure"""
     
@@ -39,7 +39,6 @@ class VividVisions:
 >>> studio = VividVisions()
 >>> studio.build()
 'Turning vision into digital reality'
-```
 
 </div>
 
@@ -117,28 +116,6 @@ class VividVisions:
 </div>
 
 ---
-
-## 🚀 **The Tokenetics Revolution**
-
-I'm the architect behind **[Tokenetics](https://tokenetics.space)** - the world's most advanced AI-powered portfolio intelligence platform. Where institutional-grade analysis meets cutting-edge visualization, delivering insights that were previously impossible.
-
-<div align="center">
-
-```python
-class Tokenetics:
-    def __init__(self):
-        self.prediction_engine = "Advanced Neural Networks"
-        self.portfolio_analyzer = "Real-time Risk Assessment" 
-        self.visualization = "3D Token Constellation"
-        self.intelligence = "Institutional Grade"
-        
-    def disrupt_finance(self):
-        return "Making billion-dollar insights accessible to everyone"
-
->>> platform = Tokenetics()
->>> platform.disrupt_finance()
-'Making billion-dollar insights accessible to everyone'
-```
 
 </div>
 
