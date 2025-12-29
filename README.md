@@ -21,7 +21,7 @@
 
 
     """Design Studio | AI Innovation | Web3 Infrastructure"""
-class VividVisions:
+    class VividVisions:
     
     def __init__(self):
         self.mission = "Intelligent systems that respect users"
@@ -37,9 +37,9 @@ class VividVisions:
     def build(self):
         return "Turning vision into digital reality"
 
->>> studio = VividVisions()
->>> studio.build()
-'Turning vision into digital reality'
+    >>> studio = VividVisions()
+    >>> studio.build()
+    'Turning vision into digital reality'
 
 
 </div>
