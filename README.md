@@ -18,9 +18,10 @@
 **[Vivid Visions](https://vividvisions.digital)** is a design and development studio focused on building AI-powered platforms, privacy-first infrastructure, and next-generation digital experiences. We operate at the intersection of machine learning, blockchain technology, and human-centric design—creating tools that are as beautiful as they are powerful.
 
 <div align="center">
-python
-class VividVisions:
+
+
     """Design Studio | AI Innovation | Web3 Infrastructure"""
+class VividVisions:
     
     def __init__(self):
         self.mission = "Intelligent systems that respect users"
