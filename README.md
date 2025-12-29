@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=28&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&multiline=true&width=900&height=120&lines=Founder+%26+Lead+Architect;<DevOps+%7C+Web3+%7C+Privacy-First+Infrastructure;Turning+Vision+into+Digital+Reality)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=28&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&multiline=true&width=900&height=120&lines=DevOps+%26+Lead+Architect;AI+%7C+Web3+%7C+Privacy-First+Infrastructure;Turning+Vision+into+Digital+Reality)](https://git.io/typing-svg)
 
 <!-- TODO: Replace with Vivid Visions banner when available -->
 <!-- <img src="https://raw.githubusercontent.com/KingRaver/KingRaver/main/assets/vividvisions-banner.gif" alt="Vivid Visions Design Studio" width="800"/> -->
