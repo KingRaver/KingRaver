@@ -1,4 +1,4 @@
-<h1 align="center"><strong>Vivid Visions Studio</strong></h1>
+<h1 align="center"><strong>Vivid Visions Design Studio</strong></h1>
 
 <div align="center">
 
