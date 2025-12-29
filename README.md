@@ -19,7 +19,7 @@
 
 <div align="center">
 
-
+'''python
     Design Studio | AI Innovation | Web3 Infrastructure
     class VividVisions:
     
@@ -40,7 +40,7 @@
     >>> studio = VividVisions()
     >>> studio.build()
     'Turning vision into digital reality'
-
+'''
 
 </div>
 
