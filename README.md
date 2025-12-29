@@ -18,7 +18,7 @@
 **[Vivid Visions](https://vividvisions.digital)** is a design and development studio focused on building AI-powered platforms, privacy-first infrastructure, and next-generation digital experiences. We operate at the intersection of machine learning, blockchain technology, and human-centric design—creating tools that are as beautiful as they are powerful.
 
 <div align="center">
-
+```python
 class VividVisions:
     """Design Studio | AI Innovation | Web3 Infrastructure"""
     
@@ -39,6 +39,7 @@ class VividVisions:
 >>> studio = VividVisions()
 >>> studio.build()
 'Turning vision into digital reality'
+```
 
 </div>
 
@@ -67,7 +68,8 @@ class VividVisions:
 <p>User-centric authentication and payment infrastructure. Your data stays yours.</p>
 <p>
 <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
 <img src="https://img.shields.io/badge/Web3-F16822?style=flat-square&logo=web3.js&logoColor=white" />
 </p>
 <a href="https://verifytrust.online"><strong>🌐 verifytrust.online</strong></a>
