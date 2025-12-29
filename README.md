@@ -80,6 +80,7 @@
 <p><em>AI Companion with Memory</em></p>
 <p>Personalized AI assistant with deep learning memory and natural language understanding.</p>
 <p>
+<img src="https://img.shields.io/badge/Perplexity-20808D?style=flat-square&logo=perplexity&logoColor=white" />
 <img src="https://img.shields.io/badge/Anthropic-191919?style=flat-square&logo=anthropic&logoColor=white" />
 <img src="https://img.shields.io/badge/Python-FFD43B?style=flat-square&logo=python&logoColor=blue" />
 <img src="https://img.shields.io/badge/NLP-4285F4?style=flat-square&logo=google&logoColor=white" />
