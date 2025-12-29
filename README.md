@@ -20,7 +20,7 @@
 <div align="center">
 
 
-    """Design Studio | AI Innovation | Web3 Infrastructure"""
+    Design Studio | AI Innovation | Web3 Infrastructure
     class VividVisions:
     
     def __init__(self):
