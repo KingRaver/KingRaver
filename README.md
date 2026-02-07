@@ -334,18 +334,18 @@ class VividVisions:
 
 <div align="center">
 
-> **"AI systems that convert fragmented data into reasoning, foresight, and actionable understanding."**
+> **"Intelligence emerges from well-scoped models designed for specific problems, not from scale alone."**
 
-**Designing intelligence that helps humans make better decisions in complex, dynamic environments.**
+**Building AI systems that favor precision, efficiency, and domain understanding over brute-force generality.**
 
 </div>
 
 ### 🎪 **Current Focus**
-- 🧠 **LLM-Centered Systems** – Large language models as reasoning, synthesis, and interface layers  
-- 🔍 **Context & Memory Architectures** – Long-horizon context, retrieval, and adaptive memory  
-- 📊 **Temporal & Behavioral Modeling** – Pattern detection across time-series and event-driven data  
-- 🧩 **Decision Intelligence** – Scoring, ranking, summarization, and human-in-the-loop AI workflows  
-- ⚙️ **AI Infrastructure** – Scalable inference, observability, and production-grade deployment
+- 🧠 **Specialized & Small Language Models** – Purpose-built models optimized for narrow domains and real-world constraints  
+- 🔍 **Context & Memory Systems** – Long-horizon context, retrieval, and adaptive memory without excessive model bloat  
+- 📊 **Temporal & Behavioral Modeling** – Pattern discovery across time-series, events, and operational data  
+- 🧩 **Decision Intelligence** – Scoring, ranking, synthesis, and human-in-the-loop reasoning systems  
+- ⚙️ **AI Infrastructure** – Efficient inference, observability, and production-grade deployment for constrained environments
 
 ---
 
