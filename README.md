@@ -28,10 +28,10 @@
         self.domains = ["AI/ML", "Web3", "Privacy Tech", "Automation"]
         
     portfolio = {
-        "tokenetics": "AI-Powered Portfolio Intelligence",
-        "verifytrust": "Privacy-Centric Authentication & Payments",
-        "artemisbot": "Deep Learning AI Companion",
         "eventinframonitor": "Enterprise Event Automation"
+        "artemisbot": "Deep Learning AI Companion",
+        "verifytrust": "Privacy-Centric Authentication & Payments",
+        "tokenetics": "AI-Powered Portfolio Intelligence",
     }
     
     def build(self):
@@ -53,6 +53,38 @@
 <table>
 <tr>
 <td align="center" width="25%">
+<h3>📡 EventInfraMonitor</h3>
+<p><em>Enterprise Automation</em></p>
+<p>Multi-source webhook processing with intelligent alerting and infrastructure monitoring.</p>
+<p>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white" />
+<img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white" />
+</p>
+<a href="https://github.com/KingRaver/Ubiquiti_Telegram_Automation"><strong>🔗 View Project</strong></a>
+</td>  
+<h3>🏹 ArtemisBot</h3>
+<p><em>AI Companion with Memory</em></p>
+<p>Personalized AI assistant with deep learning memory and natural language understanding.</p>
+<p>
+<img src="https://img.shields.io/badge/Perplexity-20808D?style=flat-square&logo=perplexity&logoColor=white" />
+<img src="https://img.shields.io/badge/Anthropic-191919?style=flat-square&logo=anthropic&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-FFD43B?style=flat-square&logo=python&logoColor=blue" />
+<img src="https://img.shields.io/badge/NLP-4285F4?style=flat-square&logo=google&logoColor=white" />
+</p>
+<a href="https://artemis.quest"><strong>🌐 artemis.quest</strong></a>
+</td>  
+<h3>🔐 VerifyTrust</h3>
+<p><em>Privacy-First Auth & Payments</em></p>
+<p>User-centric authentication and payment infrastructure. Your data stays yours.</p>
+<p>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
+<img src="https://img.shields.io/badge/Web3-F16822?style=flat-square&logo=web3.js&logoColor=white" />
+</p>
+<a href="https://verifytrust.online"><strong>🌐 verifytrust.online</strong></a>
+</td>    
 <h3>🧠 Tokenetics</h3>
 <p><em>Portfolio Intelligence Platform</em></p>
 <p>Neural networks meet real-time market data. Institutional-grade analysis with 3D visualization.</p>
@@ -64,40 +96,6 @@
 <a href="https://tokenetics.space"><strong>🌐 tokenetics.space</strong></a>
 </td>
 <td align="center" width="25%">
-<h3>🔐 VerifyTrust</h3>
-<p><em>Privacy-First Auth & Payments</em></p>
-<p>User-centric authentication and payment infrastructure. Your data stays yours.</p>
-<p>
-<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
-<img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
-<img src="https://img.shields.io/badge/Web3-F16822?style=flat-square&logo=web3.js&logoColor=white" />
-</p>
-<a href="https://verifytrust.online"><strong>🌐 verifytrust.online</strong></a>
-</td>
-<td align="center" width="25%">
-<h3>🏹 ArtemisBot</h3>
-<p><em>AI Companion with Memory</em></p>
-<p>Personalized AI assistant with deep learning memory and natural language understanding.</p>
-<p>
-<img src="https://img.shields.io/badge/Perplexity-20808D?style=flat-square&logo=perplexity&logoColor=white" />
-<img src="https://img.shields.io/badge/Anthropic-191919?style=flat-square&logo=anthropic&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-FFD43B?style=flat-square&logo=python&logoColor=blue" />
-<img src="https://img.shields.io/badge/NLP-4285F4?style=flat-square&logo=google&logoColor=white" />
-</p>
-<a href="https://artemis.quest"><strong>🌐 artemis.quest</strong></a>
-</td>
-<td align="center" width="25%">
-<h3>📡 EventInfraMonitor</h3>
-<p><em>Enterprise Automation</em></p>
-<p>Multi-source webhook processing with intelligent alerting and infrastructure monitoring.</p>
-<p>
-<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-<img src="https://img.shields.io/badge/Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white" />
-<img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white" />
-</p>
-<a href="https://github.com/KingRaver/Ubiquiti_Telegram_Automation"><strong>🔗 View Project</strong></a>
-</td>
 </tr>
 </table>
 
