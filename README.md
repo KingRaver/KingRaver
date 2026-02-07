@@ -22,7 +22,6 @@
 Design Studio | AI Innovation | Web3 Infrastructure
 
 <div align="center">
-
 <pre><code>
 class VividVisions:
 
