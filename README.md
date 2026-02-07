@@ -19,28 +19,30 @@
 
 <div align="center">
 
+Design Studio | AI Innovation | Web3 Infrastructure
 
-    Design Studio | AI Innovation | Web3 Infrastructure
-    class VividVisions:
-    
+<pre align="left"><code>
+class VividVisions:
+
     def __init__(self):
         self.mission = "Intelligent systems that respect users"
         self.domains = ["AI/ML", "Web3", "Privacy Tech", "Automation"]
-        
+
     portfolio = {
-        "eventinframonitor": "Enterprise Event Automation"
+        "eventinframonitor": "Enterprise Event Automation",
         "artemisbot": "Deep Learning AI Companion",
         "verifytrust": "Privacy-Centric Authentication & Payments",
         "tokenetics": "AI-Powered Portfolio Intelligence",
     }
-    
+
     def build(self):
         return "Turning vision into digital reality"
 
-    >>> studio = VividVisions()
-    >>> studio.build()
-    'Turning vision into digital reality'
 
+>>> studio = VividVisions()
+>>> studio.build()
+'Turning vision into digital reality'
+</code></pre>
 
 </div>
 
@@ -52,6 +54,7 @@
 
 <table>
 <tr>
+
 <td align="center" width="25%">
 <h3>📡 EventInfraMonitor</h3>
 <p><em>Enterprise Automation</em></p>
@@ -62,7 +65,9 @@
 <img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white" />
 </p>
 <a href="https://github.com/KingRaver/Ubiquiti_Telegram_Automation"><strong>🔗 View Project</strong></a>
-</td>  
+</td>
+
+<td align="center" width="25%">
 <h3>🏹 ArtemisBot</h3>
 <p><em>AI Companion with Memory</em></p>
 <p>Personalized AI assistant with deep learning memory and natural language understanding.</p>
@@ -73,7 +78,9 @@
 <img src="https://img.shields.io/badge/NLP-4285F4?style=flat-square&logo=google&logoColor=white" />
 </p>
 <a href="https://artemis.quest"><strong>🌐 artemis.quest</strong></a>
-</td>  
+</td>
+
+<td align="center" width="25%">
 <h3>🔐 VerifyTrust</h3>
 <p><em>Privacy-First Auth & Payments</em></p>
 <p>User-centric authentication and payment infrastructure. Your data stays yours.</p>
@@ -84,7 +91,9 @@
 <img src="https://img.shields.io/badge/Web3-F16822?style=flat-square&logo=web3.js&logoColor=white" />
 </p>
 <a href="https://verifytrust.online"><strong>🌐 verifytrust.online</strong></a>
-</td>    
+</td>
+
+<td align="center" width="25%">
 <h3>🧠 Tokenetics</h3>
 <p><em>Portfolio Intelligence Platform</em></p>
 <p>Neural networks meet real-time market data. Institutional-grade analysis with 3D visualization.</p>
@@ -95,7 +104,7 @@
 </p>
 <a href="https://tokenetics.space"><strong>🌐 tokenetics.space</strong></a>
 </td>
-<td align="center" width="25%">
+
 </tr>
 </table>
 
