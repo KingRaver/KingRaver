@@ -314,10 +314,10 @@ class VividVisions:
 <a href="https://github.com/KingRaver/karma">🐦 View Project</a>    
 </td>    
 <td align="center" width="25%">
-<h3>🔮 Market Maker</h3>
-<p><em>Market Creation Engine</em></p>
-<p>Python • Machine Learning • Technical Analysis</p>
-<a href="https://github.com/KingRaver/market_maker">📊 View Project</a>
+<h3>🦴 OrthoAI</h3>
+<p><em>Orthopedic Clinician AI Agent</em></p>
+<p>Typescript • Machine Learning • Technical Analysis</p>
+<a href="https://github.com/KingRaver/OrthoAI">📊 View Project</a>
 </td>
 <td align="center" width="25%">
 <h3>🧠 Tokenetics</h3>
@@ -356,7 +356,7 @@ class VividVisions:
 <div align="center">
 
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/JeffSpirlock)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/smallmovez/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jeffspirlock/)
 [![Substack](https://img.shields.io/badge/Substack-FF6719?style=for-the-badge&logo=substack&logoColor=white)](https://substack.com/@neuralmosaic)
 [![Linktree](https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/jeffspirlock)
 [![Website](https://img.shields.io/badge/vividvisions.digital-7C3AED?style=for-the-badge&logo=google-chrome&logoColor=white)](https://vividvisions.digital)
