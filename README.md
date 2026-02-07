@@ -308,7 +308,7 @@ class VividVisions:
 <a href="https://github.com/KingRaver/Ubiquiti_Telegram_Automation">🚀 View Project</a>
 </td>
 <td align="center" width="25%">
-<h3>🤖 Hacker Reign</h3>
+<h3>🐺 HackerReign</h3>
 <p><em>Computer Science Agent</em></p>
 <p>Particle Entanglement • Cognitive Learning • NLP</p>
 <a href="https://github.com/KingRaver/HackerReign">🐦 View Project</a>    
