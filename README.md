@@ -316,7 +316,7 @@ class VividVisions:
 <td align="center" width="25%">
 <h3>🦴 OrthoAI</h3>
 <p><em>Orthopedic Agent</em></p>
-<p>Machine Learning • Mechanical Reasoning • Advanced Diagnostics</p>
+<p>Evidence Synthesis • Mechanistic Reasoning • Hypothesis Generation</p>
 <a href="https://github.com/KingRaver/OrthoAI">📊 View Project</a>
 </td>
 <td align="center" width="25%">
