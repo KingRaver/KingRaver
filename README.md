@@ -334,17 +334,18 @@ class VividVisions:
 
 <div align="center">
 
-> **"Advanced neural networks meet real-time market data to deliver insights that were previously impossible"**
+> **"AI systems that convert fragmented data into reasoning, foresight, and actionable understanding."**
 
-**Making enterprise-grade financial intelligence accessible to everyone through beautiful, intuitive interfaces.**
+**Designing intelligence that helps humans make better decisions in complex, dynamic environments.**
 
 </div>
 
 ### 🎪 **Current Focus**
-- 🔥 **Tokenetics AI Platform** - Revolutionary portfolio intelligence
-- 🚀 **3D Token Visualization** - Interactive constellation mapping  
-- 🧠 **Neural Market Prediction** - Advanced pattern recognition
-- 💎 **Portfolio Health Scoring** - AI-powered risk analysis
+- 🧠 **LLM-Centered Systems** – Large language models as reasoning, synthesis, and interface layers  
+- 🔍 **Context & Memory Architectures** – Long-horizon context, retrieval, and adaptive memory  
+- 📊 **Temporal & Behavioral Modeling** – Pattern detection across time-series and event-driven data  
+- 🧩 **Decision Intelligence** – Scoring, ranking, summarization, and human-in-the-loop AI workflows  
+- ⚙️ **AI Infrastructure** – Scalable inference, observability, and production-grade deployment
 
 ---
 
