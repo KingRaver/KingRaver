@@ -21,7 +21,7 @@
 
 Design Studio | AI Innovation | Web3 Infrastructure
 
-<pre align="left"><code>
+<pre align="center"><code>
 class VividVisions:
 
     def __init__(self):
