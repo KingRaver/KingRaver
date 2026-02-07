@@ -308,15 +308,15 @@ class VividVisions:
 <a href="https://github.com/KingRaver/Ubiquiti_Telegram_Automation">🚀 View Project</a>
 </td>
 <td align="center" width="25%">
-<h3>🤖 Social Influencer</h3>
-<p><em>AI-Powered Social Intelligence</em></p>
-<p>Python • NLP • Real-time Processing</p>
-<a href="https://github.com/KingRaver/karma">🐦 View Project</a>    
+<h3>🤖 Hacker Reign</h3>
+<p><em>Computer Science Agent</em></p>
+<p>Particle Entanglement • Cognitive Learning • NLP</p>
+<a href="https://github.com/KingRaver/HackerReign">🐦 View Project</a>    
 </td>    
 <td align="center" width="25%">
 <h3>🦴 OrthoAI</h3>
 <p><em>Orthopedic Clinician AI Agent</em></p>
-<p>Typescript • Machine Learning • Technical Analysis</p>
+<p>Machine Learning • Mechanical Reasoning • Advanced Diagnostics</p>
 <a href="https://github.com/KingRaver/OrthoAI">📊 View Project</a>
 </td>
 <td align="center" width="25%">
