@@ -19,28 +19,22 @@
 
 <div align="center">
 
-| Design Studio | Computational Intelligence | Cognitive Interfaces |
-|---------------|---------------------------|----------------------|
+**Design Studio | Computational Intelligence | Cognitive Interfaces**
 
 ```python
 class VividVisions:
     def __init__(self):
         self.mission = "Intelligent systems that respect users"
         self.domains = ["AI/ML", "Automation", "Privacy Tech", "Web3"]
-
-    portfolio = {
-        "eventinframonitor": "Enterprise Event Automation",
-        "artemisbot": "Deep Learning AI Companion",
-        "verifytrust": "Privacy-Centric Authentication & Payments",
-        "tokenetics": "AI-Powered Portfolio Intelligence",
-    }
-
+        self.portfolio = {
+            "eventinframonitor": "Enterprise Event Automation",
+            "artemisbot": "Deep Learning AI Companion",
+            "verifytrust": "Privacy-Centric Authentication & Payments",
+            "tokenetics": "AI-Powered Portfolio Intelligence"
+        }
     def build(self):
         return "Turning vision into digital reality"
-
-
->>> studio = VividVisions()
->>> studio.build()
+</div> ```
 
 ---
 
