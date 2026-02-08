@@ -338,7 +338,7 @@ class VividVisions:
 
 > **"Intelligence emerges from well-scoped models designed for specific problems, not from scale alone."**
 
-**Building AI systems that favor precision, efficiency, and domain understanding over brute-force generality.**
+**Building systems that favor precision, efficiency, and domain understanding over brute-force generality.**
 
 </div>
 
