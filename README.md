@@ -38,11 +38,9 @@ class VividVisions:
     def build(self):
         return "Turning vision into digital reality"
 
+
 >>> studio = VividVisions()
 >>> studio.build()
-'Turning vision into digital reality'
-
-</div>
 
 ---
 
