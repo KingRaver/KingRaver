@@ -362,10 +362,11 @@ class VividVisions:
 [![Website](https://img.shields.io/badge/vividvisions.digital-7C3AED?style=for-the-badge&logo=google-chrome&logoColor=white)](https://vividvisions.digital)
 
 ### 💼 **Open for:**
-- 🚀 Strategic partnerships in fintech/AI space
-- 💰 Investment opportunities and venture discussions  
-- 🤝 Technical collaborations on cutting-edge projects
-- 🎯 Speaking engagements on AI + Finance innovation
+- 🤝 Collaborations in AI, machine learning, and applied research
+- 🚀 Strategic partnerships in emerging tech and innovation  
+- 💡 Fellowships, residencies, and continuous learning opportunities
+- 💰 Investment and venture discussions around ML-driven products
+- 🎯 Speaking engagements on the future of AI, creativity, and finance
 
 </div>
 
