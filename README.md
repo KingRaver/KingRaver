@@ -19,9 +19,9 @@
 
 <div align="center">
 
+<pre><code>
 Design Studio | Computational Intelligence | Cognitive Interfaces
 
-<pre><code>
 class VividVisions:
 
     def __init__(self):
