@@ -18,22 +18,21 @@
 **[Vivid Visions](https://vividvisions.digital)** is a design and development studio pioneering intelligent systems, privacy-forward architectures, and immersive digital ecosystems. Our work sits at the confluence of computational intelligence, cognitive interface design, and emerging network technologies—transforming complex systems into elegant, human-centered experiences.
 
 <div align="center">
-  
-  <div align="center">
-    Design Studio | Computational Intelligence | Cognitive Interfaces
-  </div>
 
-  <div align="center">
-    <pre><code>
+**Design Studio | Computational Intelligence | Cognitive Interfaces**
+
+<details>
+<summary><code>VividVisions</code></summary>
+
+```python
 class VividVisions:
-
     def __init__(self):
         self.mission = "Intelligent systems that respect users"
         self.domains = ["AI/ML", "Automation", "Privacy Tech", "Web3"]
 
     portfolio = {
         "eventinframonitor": "Enterprise Event Automation",
-        "artemisbot": "Deep Learning AI Companion",
+        "artemisbot": "Deep Learning AI Companion", 
         "verifytrust": "Privacy-Centric Authentication & Payments",
         "tokenetics": "AI-Powered Portfolio Intelligence",
     }
@@ -45,11 +44,6 @@ class VividVisions:
 >>> studio = VividVisions()
 >>> studio.build()
 'Turning vision into digital reality'
-    </code></pre>
-  </div>
-
-</div>
-
 
 ---
 
