@@ -21,7 +21,6 @@
 
 **Design Studio | Computational Intelligence | Cognitive Interfaces**
 
-```python
 class VividVisions:
     def __init__(self):
         self.mission = "Intelligent systems that respect users"
@@ -34,8 +33,10 @@ class VividVisions:
         }
     def build(self):
         return "Turning vision into digital reality"
-</div> ```
 
+</div>
+
+</div>
 ---
 
 ## 🚀 **Active Ventures**
