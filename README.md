@@ -9,7 +9,7 @@
 
 **🌟 Architecting intelligent systems that respect users and empower innovation 🌟**
 
-</div>```
+</div>
 
 ---
 
