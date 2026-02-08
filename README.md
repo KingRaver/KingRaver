@@ -26,7 +26,7 @@ class VividVisions:
 
     def __init__(self):
         self.mission = "Intelligent systems that respect users"
-        self.domains = ["AI/ML", "Automation", "Privacy Tech", "Web3"]
+        self.domains = ["AI/ML", "Automation", "Privacy Tech", "Safe & Secure"]
 
     portfolio = {
         "eventinframonitor": "Enterprise Event Automation",
