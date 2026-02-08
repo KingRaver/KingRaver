@@ -15,11 +15,11 @@
 
 ## 🎨 **The Studio**
 
-**[Vivid Visions](https://vividvisions.digital)** is a design and development studio focused on building AI-powered platforms, privacy-first infrastructure, and next-generation digital experiences. We operate at the intersection of machine learning, blockchain technology, and human-centric design—creating tools that are as beautiful as they are powerful.
+**[Vivid Visions](https://vividvisions.digital)** is a design and development studio pioneering intelligent systems, privacy-forward architectures, and immersive digital ecosystems. Our work sits at the confluence of computational intelligence, cognitive interface design, and emerging network technologies—transforming complex systems into elegant, human-centered experiences.
 
 <div align="center">
 
-Design Studio | AI Innovation | Web3 Infrastructure
+Design Studio | Computational Intelligence | Cognitive Interfaces
 
 <div align="center">
 
@@ -28,7 +28,7 @@ class VividVisions:
 
     def __init__(self):
         self.mission = "Intelligent systems that respect users"
-        self.domains = ["AI/ML", "Web3", "Privacy Tech", "Automation"]
+        self.domains = ["AI/ML", "Automation", "Privacy Tech", "Web3"]
 
     portfolio = {
         "eventinframonitor": "Enterprise Event Automation",
