@@ -45,8 +45,8 @@ class VividVisions:
 >>> studio.build()
 'Turning vision into digital reality'
 </code></pre>
-
 </div>
+
 
 ---
 
