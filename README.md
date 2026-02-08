@@ -18,12 +18,13 @@
 **[Vivid Visions](https://vividvisions.digital)** is a design and development studio pioneering intelligent systems, privacy-forward architectures, and immersive digital ecosystems. Our work sits at the confluence of computational intelligence, cognitive interface design, and emerging network technologies—transforming complex systems into elegant, human-centered experiences.
 
 <div align="center">
+  
+  <div align="center">
+    Design Studio | Computational Intelligence | Cognitive Interfaces
+  </div>
 
-Design Studio | Computational Intelligence | Cognitive Interfaces
-
-<div align="center">
-<pre><code>
-
+  <div align="center">
+    <pre><code>
 class VividVisions:
 
     def __init__(self):
@@ -44,9 +45,11 @@ class VividVisions:
 >>> studio = VividVisions()
 >>> studio.build()
 'Turning vision into digital reality'
-</code></pre>
+    </code></pre>
+  </div>
 
 </div>
+
 
 ---
 
