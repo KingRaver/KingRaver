@@ -42,6 +42,8 @@ class VividVisions:
 >>> studio.build()
 'Turning vision into digital reality'
 
+</div>
+
 ---
 
 ## 🚀 **Active Ventures**
