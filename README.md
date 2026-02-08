@@ -21,9 +21,7 @@
 
 Design Studio | Computational Intelligence | Cognitive Interfaces
 
-<div align="center">
 <pre><code>
-
 class VividVisions:
 
     def __init__(self):
@@ -45,6 +43,7 @@ class VividVisions:
 >>> studio.build()
 'Turning vision into digital reality'
 </code></pre>
+
 </div>
 
 
