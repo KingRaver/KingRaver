@@ -58,8 +58,8 @@ class VividVisions:
 
 <td align="center" width="25%">
 <h3>📡 EventInfraMonitor</h3>
-<p><em>Event Monitoring & Alerting</em></p>
-<p>Multi-source monitoring platform with UniFi Protect camera integration, APC UPS alerts via Make.com, and Telegram notifications with interactive response buttons. Modular adapter architecture with 39 API endpoints.</p>
+<p><em>Real-Time Event Monitoring & Alerting</em></p>
+<p>Multi-source infrastructure monitoring platform integrating UniFi Protect cameras and APC UPS power alerts via Make.com. Delivers Telegram notifications with interactive response buttons. Built on a modular adapter architecture exposing 39 API endpoints.</p>
 <p>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
