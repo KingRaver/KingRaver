@@ -112,18 +112,24 @@ class VividVisions:
 
 <td align="center" width="25%">
   <h3>🦴 OrthoAI</h3>
-  <p><em>Orthopedic Intelligence</em></p>
+  <p><em>Local-First Orthopedic Clinical Intelligence</em></p>
   <p>
-    Privacy-first medical intelligence designed to support clinical reasoning,
-    structured analysis, and evidence-aligned decision making using local AI models.
+    Privacy-first clinical reasoning platform with multi-model orchestration,
+    persistent memory &amp; RAG, case management, knowledge ingestion,
+    evidence retrieval, voice interaction, and seven specialized orthopedic modes
+    — all running on local AI models.
   </p>
   <p>
-    <img src="https://img.shields.io/badge/Python-FFD43B?style=flat-square&logo=python&logoColor=blue" />
-    <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+    <img src="https://img.shields.io/badge/Next.js_16-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+    <img src="https://img.shields.io/badge/React_19-61DAFB?style=flat-square&logo=react&logoColor=black" />
+    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+    <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
+    <img src="https://img.shields.io/badge/ChromaDB-FF6F61?style=flat-square" />
     <img src="https://img.shields.io/badge/llama.cpp-000000?style=flat-square" />
-    <img src="https://img.shields.io/badge/GGUF-4A4A4A?style=flat-square" />
+    <img src="https://img.shields.io/badge/Tailwind_CSS_4-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
+    <img src="https://img.shields.io/badge/Python-FFD43B?style=flat-square&logo=python&logoColor=blue" />
   </p>
-  <a href="https://github.com/KingRaver/OrthoAI"><strong>🔗 View Project</strong></a>  
+  <a href="https://github.com/KingRaver/OrthoAI"><strong>🔗 View Project</strong></a>
 </td>
 
 
