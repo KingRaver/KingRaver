@@ -73,7 +73,7 @@ class VividVisions:
 <td align="center" width="25%">
 <h3>🏹 Agent Artemis</h3>
 <p><em>AI Mentor with Memory</em></p>
-<p>Personalized AI mentor with deep learning, sophisticated memory, and natural language processing. 7 personalities utilizing enhanced tooling with cognitive execution.</p>
+<p>7 adaptive personalities backed by persistent memory and cognitive tooling. Deep context awareness meets real-time web intelligence — she doesn't just chat, she learns.</p>
 <p>
 <img src="https://img.shields.io/badge/Perplexity-20808D?style=flat-square&logo=perplexity&logoColor=white" />
 <img src="https://img.shields.io/badge/Anthropic-191919?style=flat-square&logo=anthropic&logoColor=white" />
@@ -82,6 +82,7 @@ class VividVisions:
 </p>
 <a href="https://artemis.quest"><strong>🌐 artemis.quest</strong></a>
 </td>
+
 
 <td align="center" width="25%">
   <h3>🐺 Hacker Reign</h3>
