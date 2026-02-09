@@ -96,7 +96,7 @@ class VividVisions:
 
 <td align="center" width="25%">
   <h3>🦴 OrthoAI</h3>
-  <p><em>Clinical Decision Support</em></p>
+  <p><em>Orthopedic Intelligence</em></p>
   <p>
     Privacy-first medical intelligence designed to support clinical reasoning,
     structured analysis, and evidence-aligned decision making using local AI models.
