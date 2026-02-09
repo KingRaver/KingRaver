@@ -70,7 +70,7 @@ class VividVisions:
 
 <td align="center" width="25%">
 <h3>🏹 ArtemisBot</h3>
-<p><em>AI Companion with Memory</em></p>
+<p><em>AI Mentor with Memory</em></p>
 <p>Personalized AI assistant with deep learning memory and natural language understanding.</p>
 <p>
 <img src="https://img.shields.io/badge/Perplexity-20808D?style=flat-square&logo=perplexity&logoColor=white" />
