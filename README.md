@@ -96,7 +96,7 @@ class VividVisions:
 
 <td align="center" width="25%">
   <h3>🦴 OrthoAI</h3>
-  <p><em>Clinical Decision Support Platform</em></p>
+  <p><em>Clinical Decision Support</em></p>
   <p>
     Privacy-first medical intelligence designed to support clinical reasoning,
     structured analysis, and evidence-aligned decision making using local AI models.
@@ -107,7 +107,7 @@ class VividVisions:
     <img src="https://img.shields.io/badge/llama.cpp-000000?style=flat-square" />
     <img src="https://img.shields.io/badge/GGUF-4A4A4A?style=flat-square" />
   </p>
-  <p><em>Local-first • Auditable • Clinician-aligned</em></p>
+  <a href="[https://github.com/KingRaver/Ubiquiti_Telegram_Automation](https://github.com/KingRaver/OrthoAI)"><strong>🔗 View Project</strong></a>  
 </td>
 
 
