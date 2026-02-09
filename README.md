@@ -82,17 +82,21 @@ class VividVisions:
 </td>
 
 <td align="center" width="25%">
-<h3>🔐 VerifyTrust</h3>
-<p><em>Privacy-First Auth & Payments</em></p>
-<p>User-centric authentication and payment infrastructure. Your data stays yours.</p>
-<p>
-<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
-<img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
-<img src="https://img.shields.io/badge/Web3-F16822?style=flat-square&logo=web3.js&logoColor=white" />
-</p>
-<a href="https://verifytrust.online"><strong>🌐 verifytrust.online</strong></a>
+<td align="center" width="25%">
+  <h3>🐺 Hacker Reign</h3>
+  <p><em>Computer Science Assistant</em></p>
+  <p>
+    A technical assistant focused on computer science, systems, and practical engineering workflows:
+    debugging, architecture reasoning, and security-aware guidance.
+  </p>
+  <p>
+    <img src="https://img.shields.io/badge/AI%20Assistant-222?style=flat-square" />
+    <img src="https://img.shields.io/badge/Systems-444?style=flat-square" />
+    <img src="https://img.shields.io/badge/CS-666?style=flat-square" />
+  </p>
+  <a href="https://github.com/KingRaver/HackerReign"><strong>🌐 github.com/KingRaver/HackerReign</strong></a>
 </td>
+
 
 <td align="center" width="25%">
   <h3>🦴 OrthoAI</h3>
