@@ -71,7 +71,7 @@ class VividVisions:
 <td align="center" width="25%">
 <h3>🏹 ArtemisBot</h3>
 <p><em>AI Mentor with Memory</em></p>
-<p>Personalized AI mentor with deep learning memory and natural language understanding. 7 personalities with access to enhanced tooling.</p>
+<p>Personalized AI mentor with deep learning, sophisticated memory, and natural language processing. 7 personalities utilizing enhanced tooling with cognitive execution.</p>
 <p>
 <img src="https://img.shields.io/badge/Perplexity-20808D?style=flat-square&logo=perplexity&logoColor=white" />
 <img src="https://img.shields.io/badge/Anthropic-191919?style=flat-square&logo=anthropic&logoColor=white" />
