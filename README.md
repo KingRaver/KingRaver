@@ -107,7 +107,7 @@ class VividVisions:
 
 <td align="center" width="25%">
   <h3>🦴 OrthoAI</h3>
-  <p><em>Orthopedic Clinical Intelligence</em></p>
+  <p><em>Orthopedic Intelligence</em></p>
   <p>
     Privacy-first clinical reasoning platform with multi-model orchestration,
     persistent memory &amp; RAG, case management, knowledge ingestion,
