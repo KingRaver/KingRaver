@@ -83,15 +83,29 @@ class VividVisions:
 
 <td align="center" width="25%">
   <h3>🐺 Hacker Reign</h3>
-  <p><em>Computer Science Assistant</em></p>
+  <p><em>Local AI Chat Platform with Multi-Model Orchestration</em></p>
   <p>
-    A technical assistant focused on computer science, systems, and practical engineering workflows:
-    debugging, architecture reasoning, and security-aware guidance.
+    A full-stack AI assistant powered by Ollama with intelligent model routing (3B/7B/16B),
+    hybrid RAG memory (semantic + BM25), voice interaction via Whisper STT &amp; Piper TTS,
+    adaptive learning, and deep learning code generation.
   </p>
   <p>
-    <img src="https://img.shields.io/badge/AI%20Assistant-222?style=flat-square" />
-    <img src="https://img.shields.io/badge/Systems-444?style=flat-square" />
-    <img src="https://img.shields.io/badge/CS-666?style=flat-square" />
+    <img src="https://img.shields.io/badge/Next.js_16-000?style=flat-square&logo=nextdotjs&logoColor=white" />
+    <img src="https://img.shields.io/badge/React_19-61DAFB?style=flat-square&logo=react&logoColor=000" />
+    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+    <img src="https://img.shields.io/badge/Tailwind_v4-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
+  </p>
+  <p>
+    <img src="https://img.shields.io/badge/Ollama-1A1A2E?style=flat-square&logo=ollama&logoColor=white" />
+    <img src="https://img.shields.io/badge/ChromaDB-FF6F61?style=flat-square" />
+    <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
+    <img src="https://img.shields.io/badge/TensorFlow.js-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
+  </p>
+  <p>
+    <img src="https://img.shields.io/badge/Whisper_STT-412991?style=flat-square&logo=openai&logoColor=white" />
+    <img src="https://img.shields.io/badge/Piper_TTS-4CAF50?style=flat-square" />
+    <img src="https://img.shields.io/badge/Three.js-000?style=flat-square&logo=threedotjs&logoColor=white" />
+    <img src="https://img.shields.io/badge/100%25_Local-222?style=flat-square&logo=gnuprivacyguard&logoColor=white" />
   </p>
   <a href="https://github.com/KingRaver/HackerReign"><strong>🔗 View Project</strong></a>
 </td>
