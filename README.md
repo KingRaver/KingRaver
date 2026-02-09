@@ -58,12 +58,14 @@ class VividVisions:
 
 <td align="center" width="25%">
 <h3>📡 EventInfraMonitor</h3>
-<p><em>Enterprise Automation</em></p>
-<p>Multi-source webhook & API processing with intelligent alerting and infrastructure monitoring. Real-time polling interface and modular configurable dashboard.</p>
+<p><em>Event Monitoring & Alerting</em></p>
+<p>Multi-source monitoring platform with UniFi Protect camera integration, APC UPS alerts via Make.com, and Telegram notifications with interactive response buttons. Modular adapter architecture with 39 API endpoints.</p>
 <p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-<img src="https://img.shields.io/badge/Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
 <img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white" />
+<img src="https://img.shields.io/badge/Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white" />
 </p>
 <a href="https://github.com/KingRaver/Ubiquiti_Telegram_Automation"><strong>🔗 View Project</strong></a>
 </td>
