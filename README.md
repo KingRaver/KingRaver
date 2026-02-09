@@ -32,7 +32,7 @@ class VividVisions:
         "eventinframonitor": "Enterprise Event Automation",
         "artemisbot": "Deep Learning AI Companion",
         "verifytrust": "Privacy-Centric Authentication & Payments",
-        "tokenetics": "AI-Powered Portfolio Intelligence",
+        "orthoai": "AI-Powered Medical Intelligence",
     }
 
     def build(self):
@@ -107,7 +107,7 @@ class VividVisions:
     <img src="https://img.shields.io/badge/llama.cpp-000000?style=flat-square" />
     <img src="https://img.shields.io/badge/GGUF-4A4A4A?style=flat-square" />
   </p>
-  <a href="[https://github.com/KingRaver/Ubiquiti_Telegram_Automation](https://github.com/KingRaver/OrthoAI)"><strong>🔗 View Project</strong></a>  
+  <a href="[https://github.com/KingRaver/OrthoAI]"><strong>🔗 View Project</strong></a>  
 </td>
 
 
