@@ -30,7 +30,7 @@ class VividVisions:
 
     portfolio = {
         "eventinframonitor": "Enterprise Event Automation",
-        "artemisbot": "Deep Learning Mentor",
+        "agentartemis": "Deep Learning Mentor",
         "hackerreign": "Computer Science Professor",
         "orthoai": "Orthopedic Medical Intelligence",
     }
@@ -71,7 +71,7 @@ class VividVisions:
 </td>
 
 <td align="center" width="25%">
-<h3>🏹 ArtemisBot</h3>
+<h3>🏹 Agent Artemis</h3>
 <p><em>AI Mentor with Memory</em></p>
 <p>Personalized AI mentor with deep learning, sophisticated memory, and natural language processing. 7 personalities utilizing enhanced tooling with cognitive execution.</p>
 <p>
