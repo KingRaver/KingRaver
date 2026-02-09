@@ -30,7 +30,7 @@ class VividVisions:
 
     portfolio = {
         "eventinframonitor": "Enterprise Event Automation",
-        "artemisbot": "Deep Learning AI Companion",
+        "artemisbot": "Deep Learning Mentor",
         "hackerreign": "Computer Science Professor",
         "orthoai": "Orthopedic Medical Intelligence",
     }
