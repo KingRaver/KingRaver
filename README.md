@@ -79,6 +79,12 @@ class VividVisions:
 <img src="https://img.shields.io/badge/Anthropic-191919?style=flat-square&logo=anthropic&logoColor=white" />
 <img src="https://img.shields.io/badge/Python-FFD43B?style=flat-square&logo=python&logoColor=blue" />
 <img src="https://img.shields.io/badge/NLP-4285F4?style=flat-square&logo=google&logoColor=white" />
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
+<img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" />    
 </p>
 <a href="https://artemis.quest"><strong>🌐 artemis.quest</strong></a>
 </td>
