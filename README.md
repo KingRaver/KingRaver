@@ -83,7 +83,7 @@ class VividVisions:
 
 <td align="center" width="25%">
   <h3>🐺 Hacker Reign</h3>
-  <p><em>Local AI Chat Platform with Multi-Model Orchestration</em></p>
+  <p><em>Multi-Model Developer</em></p>
   <p>
     A full-stack AI assistant powered by Ollama with intelligent model routing (3B/7B/16B),
     hybrid RAG memory (semantic + BM25), voice interaction via Whisper STT &amp; Piper TTS,
