@@ -59,7 +59,7 @@ class VividVisions:
 <td align="center" width="25%">
 <h3>📡 EventInfraMonitor</h3>
 <p><em>Enterprise Automation</em></p>
-<p>Multi-source webhook processing with intelligent alerting and infrastructure monitoring.</p>
+<p>Multi-source webhook & API processing with intelligent alerting and infrastructure monitoring. Real-time polling interface and modular configurable dashboard.</p>
 <p>
 <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
 <img src="https://img.shields.io/badge/Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white" />
