@@ -31,8 +31,8 @@ class VividVisions:
     portfolio = {
         "eventinframonitor": "Enterprise Event Automation",
         "artemisbot": "Deep Learning AI Companion",
-        "verifytrust": "Privacy-Centric Authentication & Payments",
-        "orthoai": "AI-Powered Medical Intelligence",
+        "hackerreign": "Computer Science Professor",
+        "orthoai": "Orthopedic Medical Intelligence",
     }
 
     def build(self):
