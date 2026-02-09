@@ -94,18 +94,13 @@ class VividVisions:
     <img src="https://img.shields.io/badge/React_19-61DAFB?style=flat-square&logo=react&logoColor=000" />
     <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
     <img src="https://img.shields.io/badge/Tailwind_v4-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
-  </p>
-  <p>
     <img src="https://img.shields.io/badge/Ollama-1A1A2E?style=flat-square&logo=ollama&logoColor=white" />
     <img src="https://img.shields.io/badge/ChromaDB-FF6F61?style=flat-square" />
     <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
     <img src="https://img.shields.io/badge/TensorFlow.js-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
-  </p>
-  <p>
     <img src="https://img.shields.io/badge/Whisper_STT-412991?style=flat-square&logo=openai&logoColor=white" />
     <img src="https://img.shields.io/badge/Piper_TTS-4CAF50?style=flat-square" />
     <img src="https://img.shields.io/badge/Three.js-000?style=flat-square&logo=threedotjs&logoColor=white" />
-    <img src="https://img.shields.io/badge/100%25_Local-222?style=flat-square&logo=gnuprivacyguard&logoColor=white" />
   </p>
   <a href="https://github.com/KingRaver/HackerReign"><strong>🔗 View Project</strong></a>
 </td>
