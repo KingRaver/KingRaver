@@ -93,7 +93,7 @@ class VividVisions:
     <img src="https://img.shields.io/badge/Systems-444?style=flat-square" />
     <img src="https://img.shields.io/badge/CS-666?style=flat-square" />
   </p>
-  <a href="https://github.com/KingRaver/HackerReign"><strong>🌐 github.com/KingRaver/HackerReign</strong></a>
+  <a href="https://github.com/KingRaver/HackerReign"><strong>🔗 View Project</strong></a>
 </td>
 
 <td align="center" width="25%">
