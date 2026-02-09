@@ -82,7 +82,6 @@ class VividVisions:
 </td>
 
 <td align="center" width="25%">
-<td align="center" width="25%">
   <h3>🐺 Hacker Reign</h3>
   <p><em>Computer Science Assistant</em></p>
   <p>
@@ -96,7 +95,6 @@ class VividVisions:
   </p>
   <a href="https://github.com/KingRaver/HackerReign"><strong>🌐 github.com/KingRaver/HackerReign</strong></a>
 </td>
-
 
 <td align="center" width="25%">
   <h3>🦴 OrthoAI</h3>
