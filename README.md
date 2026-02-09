@@ -107,7 +107,7 @@ class VividVisions:
     <img src="https://img.shields.io/badge/llama.cpp-000000?style=flat-square" />
     <img src="https://img.shields.io/badge/GGUF-4A4A4A?style=flat-square" />
   </p>
-  <a href="[https://github.com/KingRaver/OrthoAI]"><strong>🔗 View Project</strong></a>  
+  <a href="https://github.com/KingRaver/OrthoAI"><strong>🔗 View Project</strong></a>  
 </td>
 
 
