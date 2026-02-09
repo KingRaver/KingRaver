@@ -95,16 +95,21 @@ class VividVisions:
 </td>
 
 <td align="center" width="25%">
-<h3>🧠 Tokenetics</h3>
-<p><em>Portfolio Intelligence Platform</em></p>
-<p>Neural networks meet real-time market data. Institutional-grade analysis with 3D visualization.</p>
-<p>
-<img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js" />
-<img src="https://img.shields.io/badge/Python-FFD43B?style=flat-square&logo=python&logoColor=blue" />
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
-</p>
-<a href="https://tokenetics.space"><strong>🌐 tokenetics.space</strong></a>
+  <h3>🦴 OrthoAI</h3>
+  <p><em>Clinical Decision Support Platform</em></p>
+  <p>
+    Privacy-first medical intelligence designed to support clinical reasoning,
+    structured analysis, and evidence-aligned decision making using local AI models.
+  </p>
+  <p>
+    <img src="https://img.shields.io/badge/Python-FFD43B?style=flat-square&logo=python&logoColor=blue" />
+    <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+    <img src="https://img.shields.io/badge/llama.cpp-000000?style=flat-square" />
+    <img src="https://img.shields.io/badge/GGUF-4A4A4A?style=flat-square" />
+  </p>
+  <p><em>Local-first • Auditable • Clinician-aligned</em></p>
 </td>
+
 
 </tr>
 </table>
