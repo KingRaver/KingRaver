@@ -70,25 +70,6 @@ class VividVisions:
 <a href="https://github.com/KingRaver/Ubiquiti_Telegram_Automation"><strong>🔗 View Project</strong></a>
 </td>
 
-<td align="center" width="25%">
-<h3>🏹 Agent Artemis</h3>
-<p><em>AI Mentor with Memory</em></p>
-<p>7 adaptive personalities backed by persistent memory and cognitive tooling. Deep context awareness meets real-time web intelligence — she doesn't just chat, she learns.</p>
-<p>
-<img src="https://img.shields.io/badge/Perplexity-20808D?style=flat-square&logo=perplexity&logoColor=white" />
-<img src="https://img.shields.io/badge/Anthropic-191919?style=flat-square&logo=anthropic&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-FFD43B?style=flat-square&logo=python&logoColor=blue" />
-<img src="https://img.shields.io/badge/NLP-4285F4?style=flat-square&logo=google&logoColor=white" />
-<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
-<img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" />    
-</p>
-<a href="https://artemis.quest"><strong>🌐 artemis.quest</strong></a>
-</td>
-
 
 <td align="center" width="25%">
   <h3>🐺 Hacker Reign</h3>
@@ -134,6 +115,25 @@ class VividVisions:
     <img src="https://img.shields.io/badge/Python-FFD43B?style=flat-square&logo=python&logoColor=blue" />
   </p>
   <a href="https://github.com/KingRaver/OrthoAI"><strong>🔗 View Project</strong></a>
+</td>
+
+<td align="center" width="25%">
+<h3>🏹 Agent Artemis</h3>
+<p><em>AI Mentor with Memory</em></p>
+<p>7 adaptive personalities backed by persistent memory and cognitive tooling. Deep context awareness meets real-time web intelligence — she doesn't just chat, she learns.</p>
+<p>
+<img src="https://img.shields.io/badge/Perplexity-20808D?style=flat-square&logo=perplexity&logoColor=white" />
+<img src="https://img.shields.io/badge/Anthropic-191919?style=flat-square&logo=anthropic&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-FFD43B?style=flat-square&logo=python&logoColor=blue" />
+<img src="https://img.shields.io/badge/NLP-4285F4?style=flat-square&logo=google&logoColor=white" />
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
+<img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" />    
+</p>
+<a href="https://artemis.quest"><strong>🌐 artemis.quest</strong></a>
 </td>
 
 
