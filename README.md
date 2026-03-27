@@ -74,28 +74,29 @@ class VividVisions:
 </td>
 
 <td align="center" width="25%">
-  <h3>🐺 Hacker Reign</h3>
-  <p><em>Multi-Model Developer</em></p>
+  <h3>🎟️ Voucher.Social</h3>
+  <p><em>Operator-Grade Voucher Platform</em></p>
   <p>
-    A full-stack AI assistant powered by Ollama with intelligent model routing (3B/7B/16B),
-    hybrid RAG memory (semantic + BM25), voice interaction via Whisper STT &amp; Piper TTS,
-    adaptive learning, and deep learning code generation.
+    A full-stack voucher distribution and inventory management system built for
+    speed and auditability. Features real-time inventory tracking, live low-stock
+    alerts, UniFi integration, QR code generation, PDF export, OCR ingestion,
+    and 2FA-secured operator workflows.
   </p>
   <p>
     <img src="https://img.shields.io/badge/Next.js_16-000?style=flat-square&logo=nextdotjs&logoColor=white" />
     <img src="https://img.shields.io/badge/React_19-61DAFB?style=flat-square&logo=react&logoColor=000" />
     <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
     <img src="https://img.shields.io/badge/Tailwind_v4-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
-    <img src="https://img.shields.io/badge/Ollama-1A1A2E?style=flat-square&logo=ollama&logoColor=white" />
-    <img src="https://img.shields.io/badge/ChromaDB-FF6F61?style=flat-square" />
-    <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
-    <img src="https://img.shields.io/badge/TensorFlow.js-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
-    <img src="https://img.shields.io/badge/Whisper_STT-412991?style=flat-square&logo=openai&logoColor=white" />
-    <img src="https://img.shields.io/badge/Piper_TTS-4CAF50?style=flat-square" />
-    <img src="https://img.shields.io/badge/Three.js-000?style=flat-square&logo=threedotjs&logoColor=white" />
+    <img src="https://img.shields.io/badge/Fastify-000?style=flat-square&logo=fastify&logoColor=white" />
+    <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+    <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" />
+    <img src="https://img.shields.io/badge/Redis-FF4438?style=flat-square&logo=redis&logoColor=white" />
+    <img src="https://img.shields.io/badge/Turborepo-EF4444?style=flat-square&logo=turborepo&logoColor=white" />
+    <img src="https://img.shields.io/badge/Zod-3E67B1?style=flat-square&logo=zod&logoColor=white" />
   </p>
-  <a href="https://github.com/KingRaver/HackerReign"><strong>🔗 View Project</strong></a>
+  <a href="https://www.voucher.social"><strong>🔗 View Project</strong></a>
 </td>
+
 
 <td align="center" width="25%">
   <h3>🦴 OrthoAI</h3>
