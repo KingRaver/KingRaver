@@ -108,9 +108,9 @@ class VividVisions:
   <p>
     Passwordless authentication and on-chain stablecoin payments via the x402
     protocol — no accounts, no passwords, no friction. Connect a wallet once
-    for instant access to protected resources, with multi-chain settlement
-    across Base, Polygon, Optimism &amp; Cronos and verifiable transaction
-    proof on every payment.
+    for instant access, point-of-sale payments, and fully auditable on-chain
+    accounting across Base, Polygon, Optimism &amp; Cronos with verifiable
+    transaction proof on every settlement.
   </p>
   <p>
     <img src="https://img.shields.io/badge/Next.js_14-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
@@ -122,10 +122,9 @@ class VividVisions:
     <img src="https://img.shields.io/badge/x402_Protocol-7C3AED?style=flat-square" />
     <img src="https://img.shields.io/badge/WalletConnect-3B99FC?style=flat-square&logo=walletconnect&logoColor=white" />
   </p>
-  <a href="https://github.com/KingRaver/verify_trust"><strong>🔗 View Project</strong></a>
-  &nbsp;|&nbsp;
-  <a href="https://www.verifytrust.online/"><strong>🌐 Live Site</strong></a>
+  <a href="https://www.verifytrust.online/"><strong>🌐 View Project</strong></a>
 </td>
+
 
 <td align="center" width="25%">
 <h3>🏹 Agent Artemis</h3>
