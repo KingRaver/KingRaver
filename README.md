@@ -59,7 +59,7 @@ class VividVisions:
 <td align="center" width="25%">
 <h3>🛡️ Veritus</h3>
 <p><em>Infrastructure Monitoring Platform</em></p>
-<p>Full-stack monorepo for real-time home infrastructure monitoring. Ingests UniFi Protect camera motion events and APC UPS power alerts via Make.com, stores them in PostgreSQL, and delivers Telegram notifications with interactive acknowledgement buttons. Features a bespoke Next.js dashboard with live event feeds, UPS status charts, network vitals, ISP metrics, and a device fleet grid. Includes a conversational AI SysAdmin agent (Claude-powered, tool-calling) that answers natural language queries about cameras, UPS state, and network health — and can acknowledge or escalate alerts via chat.</p>
+<p>Full-stack monorepo for real-time infrastructure monitoring across a multi-site deployment spanning several hundred hectares. Ingests UniFi Protect camera motion events and APC UPS power alerts via Make.com, stores them in PostgreSQL, and delivers Telegram notifications with interactive acknowledgement buttons. Features a bespoke Next.js dashboard with live event feeds, UPS status charts, network vitals, ISP metrics, and a device fleet grid. Includes a conversational AI SysAdmin agent (Claude-powered, tool-calling) that answers natural language queries about cameras, UPS state, and network health — and can acknowledge or escalate alerts via chat.</p>
 <p>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
