@@ -70,7 +70,7 @@ class VividVisions:
 <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
 <img src="https://img.shields.io/badge/Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white" />
 </p>
-<a href="https://veritus.sbs/"><strong>🌐 View Project</strong></a>
+<a href="https://veritus.sbs/"><strong>🌐 veritus.sbs</strong></a>
 </td>
 
 <td align="center" width="25%">
@@ -99,7 +99,7 @@ class VividVisions:
     <img src="https://img.shields.io/badge/Turborepo-EF4444?style=flat-square&logo=turborepo&logoColor=white" />
     <img src="https://img.shields.io/badge/Zod-3E67B1?style=flat-square&logo=zod&logoColor=white" />
   </p>
-  <a href="https://www.voucher.social"><strong>🌐 View Project</strong></a>
+  <a href="https://www.voucher.social"><strong>🌐 voucher.social</strong></a>
 </td>
 
 <td align="center" width="25%">
@@ -126,7 +126,7 @@ class VividVisions:
     <img src="https://img.shields.io/badge/x402_Protocol-7C3AED?style=flat-square" />
     <img src="https://img.shields.io/badge/WalletConnect-3B99FC?style=flat-square&logo=walletconnect&logoColor=white" />
   </p>
-  <a href="https://www.verifytrust.online/"><strong>🌐 View Project</strong></a>
+  <a href="https://www.verifytrust.online/"><strong>🌐 verifytrust.online</strong></a>
 </td>
 
 <td align="center" width="25%">
