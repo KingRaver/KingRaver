@@ -129,26 +129,25 @@ class VividVisions:
   <a href="https://www.verifytrust.online/"><strong>🌐 View Project</strong></a>
 </td>
 
-
 <td align="center" width="25%">
-<h3>🏹 Agent Artemis</h3>
-<p><em>AI Mentor with Memory</em></p>
-<p>7 adaptive personalities backed by persistent memory and cognitive tooling. Deep context awareness meets real-time web intelligence — she doesn't just chat, she learns.</p>
+<h3>🔄 Verto</h3>
+<p><em>Instant File Conversion Engine</em></p>
+<p>Zero-auth file conversion across 20+ formats spanning documents, images, audio, video, and data. Pluggable converter adapters route jobs through per-family concurrency queues (image ×4, video ×1, doc ×2) with post-conversion output validation before any file is served. Visitor-scoped job isolation keeps sessions private without accounts. Developer tier unlocks batch uploads (20 files), named presets, HMAC-signed webhooks, API keys, idempotency keys, and a full OpenAPI spec. Tiered plans (Free → Pro → Business) enforce daily limits, upload caps, and retention windows via Stripe billing. S3 or local storage with signed download URLs. Prometheus metrics, Pino structured logging, and Sentry error tracking round out a production-grade observability stack.</p>
 <p>
-<img src="https://img.shields.io/badge/Perplexity-20808D?style=flat-square&logo=perplexity&logoColor=white" />
-<img src="https://img.shields.io/badge/Anthropic-191919?style=flat-square&logo=anthropic&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-FFD43B?style=flat-square&logo=python&logoColor=blue" />
-<img src="https://img.shields.io/badge/NLP-4285F4?style=flat-square&logo=google&logoColor=white" />
-<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
-<img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" />    
+<img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
+<img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
+<img src="https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white" />
+<img src="https://img.shields.io/badge/AWS_S3-FF9900?style=flat-square&logo=amazons3&logoColor=white" />
+<img src="https://img.shields.io/badge/FFmpeg-007808?style=flat-square&logo=ffmpeg&logoColor=white" />
+<img src="https://img.shields.io/badge/Sentry-362D59?style=flat-square&logo=sentry&logoColor=white" />
 </p>
-<a href="https://artemis.quest"><strong>🌐 artemis.quest</strong></a>
+<a href="https://www.verto.sbs"><strong>🌐 verto.sbs</strong></a>
 </td>
-
 
 </tr>
 </table>
