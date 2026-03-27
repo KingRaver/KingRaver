@@ -77,19 +77,15 @@ class VividVisions:
   <h3>🎟️ Voucher.Social</h3>
   <p><em>Operator-Grade Voucher Platform</em></p>
   <p>
-    A production-deployed, multi-tenant voucher distribution and inventory management
-    platform built for event operators and network administrators. Manages 42 distinct
-    product SKUs across 6 tiers and 7 durations, with UniFi API sync for guest WiFi
-    access control, OCR-powered PDF/CSV batch ingestion, and transactional single-voucher
-    dispensing backed by row-level locking to prevent double-issuance. Supports
-    full email campaign lifecycle management — recipient validation, supervisor reservation,
-    async batch sending, and delivery webhook reconciliation — plus a delegated team-lead
-    upload flow via expiring magic invite links. Security-first throughout: TOTP 2FA
-    with AES-256-encrypted secrets and recovery codes, 5-tier RBAC, complete audit
-    trails with voucher code masking, email suppression management, and bot-filtered
-    delivery tracking. Frontend acts as a BFF, proxying authenticated requests to
-    a hardened Fastify 5 API. Deployed on Vercel + Railway with Playwright E2E,
-    k6 load tests, and CI/CD through GitHub Actions.
+    A production-deployed, multi-tenant platform for voucher distribution and
+    inventory management built for event operators and network administrators.
+    Handles UniFi guest WiFi sync, OCR-powered PDF/CSV batch ingestion, and
+    transactional dispensing with row-level locking across 42 SKUs. Full email
+    campaign lifecycle — recipient validation, supervisor reservation, async
+    sending, and webhook delivery reconciliation — with delegated team-lead
+    uploads via magic invite links. Security-first: TOTP 2FA, 5-tier RBAC,
+    complete audit trails with voucher code masking, and a BFF architecture
+    proxying authenticated requests to a hardened Fastify 5 API.
   </p>
   <p>
     <img src="https://img.shields.io/badge/Next.js_16-000?style=flat-square&logo=nextdotjs&logoColor=white" />
