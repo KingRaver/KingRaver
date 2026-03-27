@@ -337,43 +337,6 @@ class VividVisions:
 
 ---
 
-## 🎯 **Flagship Projects**
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center" width="25%">
-<h3>📡 EventInfraMonitor</h3>
-<p><em>Enterprise Event Logistics</em></p>
-<p>FastAPI • Multi-Source Webhooks • Alerts</p>
-<a href="https://github.com/KingRaver/Ubiquiti_Telegram_Automation">🚀 View Project</a>
-</td>
-<td align="center" width="25%">
-<h3>🐺 HackerReign</h3>
-<p><em>Computer Science Agent</em></p>
-<p>Particle Entanglement • Cognitive Learning • NLP</p>
-<a href="https://github.com/KingRaver/HackerReign">👩🏻‍💻 View Project</a>    
-</td>    
-<td align="center" width="25%">
-<h3>🦴 OrthoAI</h3>
-<p><em>Orthopedic Clinician</em></p>
-<p>Evidence Synthesis • Mechanistic Reasoning • Hypothesis Generation</p>
-<a href="https://github.com/KingRaver/OrthoAI">⚕️ View Project</a>
-</td>
-<td align="center" width="25%">
-<h3>🧠 Tokenetics</h3>
-<p><em>Advanced Market Intelligence</em></p>
-<p>Next.js • Python AI • 3D Visualization</p>
-<a href="https://tokenetics.space">🌐 Live Platform</a>
-</td>    
-</tr>
-</table>
-
-</div>
-
----
-
 ## 🌌 **The Vision**
 
 <div align="center">
