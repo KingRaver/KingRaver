@@ -70,7 +70,7 @@ class VividVisions:
 <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
 <img src="https://img.shields.io/badge/Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white" />
 </p>
-<a href="https://veritus.sbs/"><strong>🔗 View Project</strong></a>
+<a href="https://veritus.sbs/"><strong>🌐 View Project</strong></a>
 </td>
 
 <td align="center" width="25%">
@@ -99,7 +99,7 @@ class VividVisions:
     <img src="https://img.shields.io/badge/Turborepo-EF4444?style=flat-square&logo=turborepo&logoColor=white" />
     <img src="https://img.shields.io/badge/Zod-3E67B1?style=flat-square&logo=zod&logoColor=white" />
   </p>
-  <a href="https://www.voucher.social"><strong>🔗 View Project</strong></a>
+  <a href="https://www.voucher.social"><strong>🌐 View Project</strong></a>
 </td>
 
 <td align="center" width="25%">
