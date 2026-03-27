@@ -105,13 +105,17 @@ class VividVisions:
 <td align="center" width="25%">
   <h3>🔐 VerifyTrust</h3>
   <p><em>Wallet-First Access &amp; Payments</em></p>
-  <p>
+   <p>
     Passwordless authentication and on-chain stablecoin payments via the x402
     protocol — no accounts, no passwords, no friction. Connect a wallet once
     for instant access, point-of-sale payments, and fully auditable on-chain
     accounting across Base, Polygon, Optimism &amp; Cronos with verifiable
-    transaction proof on every settlement.
+    transaction proof on every settlement. Merchants register domains to
+    receive API-key-gated access with QR code payment flows and gasless
+    EIP-3009 transfers. Every session is backed by risk scoring, rate limiting,
+    and AES-256-GCM encrypted webhook callbacks for a hardened security posture.
   </p>
+
   <p>
     <img src="https://img.shields.io/badge/Next.js_14-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
     <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
