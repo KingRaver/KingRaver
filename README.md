@@ -103,25 +103,28 @@ class VividVisions:
 </td>
 
 <td align="center" width="25%">
-  <h3>🦴 OrthoAI</h3>
-  <p><em>Orthopedic Intelligence</em></p>
+  <h3>🔐 VerifyTrust</h3>
+  <p><em>Wallet-First Access &amp; Payments</em></p>
   <p>
-    Privacy-first clinical reasoning platform with multi-model orchestration,
-    persistent memory &amp; RAG, case management, knowledge ingestion,
-    evidence retrieval, voice interaction, and seven specialized orthopedic modes
-    — all running on local AI models.
+    Passwordless authentication and on-chain stablecoin payments via the x402
+    protocol — no accounts, no passwords, no friction. Connect a wallet once
+    for instant access to protected resources, with multi-chain settlement
+    across Base, Polygon, Optimism &amp; Cronos and verifiable transaction
+    proof on every payment.
   </p>
   <p>
-    <img src="https://img.shields.io/badge/Next.js_16-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
-    <img src="https://img.shields.io/badge/React_19-61DAFB?style=flat-square&logo=react&logoColor=black" />
+    <img src="https://img.shields.io/badge/Next.js_14-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
     <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-    <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
-    <img src="https://img.shields.io/badge/ChromaDB-FF6F61?style=flat-square" />
-    <img src="https://img.shields.io/badge/llama.cpp-000000?style=flat-square" />
-    <img src="https://img.shields.io/badge/Tailwind_CSS_4-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
-    <img src="https://img.shields.io/badge/Python-FFD43B?style=flat-square&logo=python&logoColor=blue" />
+    <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
+    <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+    <img src="https://img.shields.io/badge/Redis-FF4438?style=flat-square&logo=redis&logoColor=white" />
+    <img src="https://img.shields.io/badge/ethers.js-2535A0?style=flat-square" />
+    <img src="https://img.shields.io/badge/x402_Protocol-7C3AED?style=flat-square" />
+    <img src="https://img.shields.io/badge/WalletConnect-3B99FC?style=flat-square&logo=walletconnect&logoColor=white" />
   </p>
-  <a href="https://github.com/KingRaver/OrthoAI"><strong>🔗 View Project</strong></a>
+  <a href="https://github.com/KingRaver/verify_trust"><strong>🔗 View Project</strong></a>
+  &nbsp;|&nbsp;
+  <a href="https://www.verifytrust.online/"><strong>🌐 Live Site</strong></a>
 </td>
 
 <td align="center" width="25%">
