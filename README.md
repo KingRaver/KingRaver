@@ -57,19 +57,21 @@ class VividVisions:
 <tr>
 
 <td align="center" width="25%">
-<h3>📡 EventInfraMonitor</h3>
-<p><em>Real-Time Monitoring & Alerting</em></p>
-<p>Multi-source infrastructure monitoring platform integrating UniFi Protect cameras and APC UPS power alerts via Make.com. Delivers Telegram notifications with interactive response buttons. Built on a modular adapter architecture exposing 39 API endpoints.</p>
+<h3>🛡️ Veritus</h3>
+<p><em>Infrastructure Monitoring Platform</em></p>
+<p>Full-stack monorepo for real-time home infrastructure monitoring. Ingests UniFi Protect camera motion events and APC UPS power alerts via Make.com, stores them in PostgreSQL, and delivers Telegram notifications with interactive acknowledgement buttons. Features a bespoke Next.js dashboard with live event feeds, UPS status charts, network vitals, ISP metrics, and a device fleet grid. Includes a conversational AI SysAdmin agent (Claude-powered, tool-calling) that answers natural language queries about cameras, UPS state, and network health — and can acknowledge or escalate alerts via chat.</p>
 <p>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Claude_AI-D97706?style=flat-square&logo=anthropic&logoColor=white" />
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
 <img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white" />
+<img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
 <img src="https://img.shields.io/badge/Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white" />
 </p>
-<a href="https://github.com/KingRaver/Ubiquiti_Telegram_Automation"><strong>🔗 View Project</strong></a>
+<a href="https://veritus.sbs/"><strong>🔗 View Project</strong></a>
 </td>
-
 
 <td align="center" width="25%">
   <h3>🐺 Hacker Reign</h3>
