@@ -156,7 +156,7 @@ class VividVisions:
 
 ---
 
-[Tech Stack](https://github.com/KingRaver/TECH_STACK.md)
+<a href="https://github.com/KingRaver/TECH_STACK.md"><strong>✨ View Tech Stack</strong></a>
 
 ---
 
