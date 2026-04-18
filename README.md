@@ -156,6 +156,10 @@ class VividVisions:
 
 ---
 
+[Tech Stack](https://github.com/KingRaver/TECH_STACK.md)
+
+---
+
 ## 📈 **GitHub Intelligence**
 
 <div align="center">
