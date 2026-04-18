@@ -156,7 +156,7 @@ class VividVisions:
 
 ---
 
-[![Tech Stack](./assets/tech-stack.gif)](https://github.com/KingRaver/TECH_STACK.md)
+[![Tech Stack](https://img.shields.io/badge/%E2%9C%A8%20Tech%20Stack-Explore-01696f?style=for-the-badge)](https://github.com/KingRaver/TECH_STACK.md)
 
 ---
 
