@@ -102,53 +102,6 @@ class VividVisions:
   <a href="https://www.voucher.social"><strong>🌐 voucher.social</strong></a>
 </td>
 
-<td align="center" width="25%">
-  <h3>🔐 VerifyTrust</h3>
-  <p><em>Wallet-First Access &amp; Payments</em></p>
-   <p>
-    Passwordless authentication and on-chain stablecoin payments via the x402
-    protocol — no accounts, no passwords, no friction. Connect a wallet once
-    for instant access, point-of-sale payments, and fully auditable on-chain
-    accounting across Base, Polygon, Optimism &amp; Cronos with verifiable
-    transaction proof on every settlement. Merchants register domains to
-    receive API-key-gated access with QR code payment flows and gasless
-    EIP-3009 transfers. Every session is backed by risk scoring, rate limiting,
-    and AES-256-GCM encrypted webhook callbacks for a hardened security posture.
-  </p>
-
-  <p>
-    <img src="https://img.shields.io/badge/Next.js_14-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
-    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-    <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
-    <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
-    <img src="https://img.shields.io/badge/Redis-FF4438?style=flat-square&logo=redis&logoColor=white" />
-    <img src="https://img.shields.io/badge/ethers.js-2535A0?style=flat-square" />
-    <img src="https://img.shields.io/badge/x402_Protocol-7C3AED?style=flat-square" />
-    <img src="https://img.shields.io/badge/WalletConnect-3B99FC?style=flat-square&logo=walletconnect&logoColor=white" />
-  </p>
-  <a href="https://www.verifytrust.online/"><strong>🌐 verifytrust.online</strong></a>
-</td>
-
-<td align="center" width="25%">
-<h3>🔄 Verto</h3>
-<p><em>Instant File Conversion Engine</em></p>
-<p>Zero-auth file conversion across 20+ formats — documents, images, audio, video, and data. Pluggable converter adapters route jobs through per-family concurrency queues (image ×4, video ×1, doc ×2) with post-conversion output validation before any file is served. Visitor-scoped isolation keeps sessions private without accounts. Developer tier unlocks batch uploads (20 files), named presets, HMAC-signed webhooks, API keys, idempotency keys, and a full OpenAPI spec. Free → Pro → Business tiers enforce daily limits, upload caps, and retention windows via Stripe. S3 or local storage with signed URLs. Prometheus metrics, Pino structured logging, and Sentry round out the observability stack.</p>
-<p>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
-<img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
-<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
-<img src="https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white" />
-<img src="https://img.shields.io/badge/AWS_S3-FF9900?style=flat-square&logo=amazons3&logoColor=white" />
-<img src="https://img.shields.io/badge/FFmpeg-007808?style=flat-square&logo=ffmpeg&logoColor=white" />
-<img src="https://img.shields.io/badge/Sentry-362D59?style=flat-square&logo=sentry&logoColor=white" />
-</p>
-<a href="https://www.verto.sbs"><strong>🌐 verto.sbs</strong></a>
-</td>
-
 </tr>
 </table>
 
