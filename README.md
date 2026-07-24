@@ -29,9 +29,9 @@ class VividVisions:
         self.domains = ["AI/ML", "Automation", "Privacy Tech", "Security"]
 
     portfolio = {
-        "eventinframonitor": "Enterprise Event Automation",
+        "veritus": "Enterprise Infrastructure Monitoring",
+        "vouchersocial": "Wifi Access Management",
         "agentartemis": "Deep Learning Mentor",
-        "hackerreign": "Computer Science Professor",
         "orthoai": "Orthopedic Medical Intelligence",
     }
 
