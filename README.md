@@ -4,6 +4,12 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=28&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&multiline=true&width=900&height=120&lines=Founder+%26+Lead+Architect;AI+%7C+Safety+Centric+%7C+Privacy-First+Infrastructure;Turning+Vision+into+Digital+Reality)](https://git.io/typing-svg)
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KingRaver/KingRaver/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KingRaver/KingRaver/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/KingRaver/KingRaver/output/github-contribution-grid-snake.svg" />
+</picture>
+
 <!-- TODO: Replace with Vivid Visions banner when available -->
 <!-- <img src="https://raw.githubusercontent.com/KingRaver/KingRaver/main/assets/vividvisions-banner.gif" alt="Vivid Visions Design Studio" width="800"/> -->
 
