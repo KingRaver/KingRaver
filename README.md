@@ -117,11 +117,11 @@ class VividVisions:
 
 <div align="center">
 
-<img width="49%" src="https://github-stats-extended.vercel.app/api?username=KingRaver&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=39FF14&icon_color=00F0FF&text_color=E8FFE8" />
-<img width="49%" src="https://github-readme-streak-stats-eight.vercel.app/?user=KingRaver&theme=tokyonight&hide_border=true&background=0D1117&stroke=39FF14&ring=39FF14&fire=00F0FF&currStreakLabel=00F0FF" />
+<img width="49%" src="https://github-stats-extended.vercel.app/api?username=KingRaver&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF2BD6&icon_color=00F0FF&ring_color=FFF01F&text_color=E8FFE8" />
+<img width="49%" src="https://github-readme-streak-stats-eight.vercel.app/?user=KingRaver&theme=tokyonight&hide_border=true&background=0D1117&stroke=BF5FFF&ring=FF6B00&fire=FFF01F&currStreakNum=FFF01F&currStreakLabel=FF6B00&sideNums=39FF14&sideLabels=00F0FF&dates=E8FFE8" />
 
 <img width="49%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=KingRaver&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=39FF14&text_color=E8FFE8" />
-<img width="49%" src="https://github-readme-activity-graph-rho-azure.vercel.app/graph?username=KingRaver&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=E8FFE8&title_color=39FF14&line=39FF14&point=00F0FF" />
+<img width="49%" src="https://github-readme-activity-graph-rho-azure.vercel.app/graph?username=KingRaver&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=E8FFE8&title_color=BF5FFF&line=00F0FF&point=FF2BD6" />
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KingRaver/KingRaver/output/github-contribution-grid-snake-dark.svg" />
