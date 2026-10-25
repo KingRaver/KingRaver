@@ -121,7 +121,7 @@ class VividVisions:
 <img width="49%" src="https://github-readme-streak-stats-eight.vercel.app/?user=KingRaver&theme=tokyonight&hide_border=true&background=0D1117&stroke=7C3AED&ring=7C3AED&fire=7C3AED&currStreakLabel=7C3AED" />
 
 <img width="49%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=KingRaver&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C3AED&text_color=FFFFFF" />
-<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=KingRaver&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=7C3AED&line=7C3AED&point=FFFFFF" />
+<img width="49%" src="https://github-readme-activity-graph-rho-azure.vercel.app/graph?username=KingRaver&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=7C3AED&line=7C3AED&point=FFFFFF" />
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KingRaver/KingRaver/output/github-contribution-grid-snake-dark.svg" />
