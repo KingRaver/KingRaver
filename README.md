@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=28&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&multiline=true&width=900&height=120&lines=Founder+%26+Lead+Architect;AI+%7C+Safety+Centric+%7C+Privacy-First+Infrastructure;Turning+Vision+into+Digital+Reality)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=28&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&multiline=true&width=900&height=120&lines=Founder+%26+Lead+Architect;AI+%7C+Safety+Centric+%7C+Privacy-First+Infrastructure;Turning+Vision+into+Digital+Reality)](https://git.io/typing-svg)
 
 <!-- TODO: Replace with Vivid Visions banner when available -->
 <!-- <img src="https://raw.githubusercontent.com/KingRaver/KingRaver/main/assets/vividvisions-banner.gif" alt="Vivid Visions Design Studio" width="800"/> -->
@@ -117,10 +117,10 @@ class VividVisions:
 
 <div align="center">
 
-<img width="49%" src="https://github-stats-extended.vercel.app/api?username=KingRaver&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF2BD6&icon_color=00F0FF&ring_color=FFF01F&text_color=E8FFE8" />
-<img width="49%" src="https://github-readme-streak-stats-eight.vercel.app/?user=KingRaver&theme=tokyonight&hide_border=true&background=0D1117&stroke=BF5FFF&ring=FF6B00&fire=FFF01F&currStreakNum=FFF01F&currStreakLabel=FF6B00&sideNums=39FF14&sideLabels=00F0FF&dates=E8FFE8" />
+<img width="49%" src="https://github-readme-activity-graph-rho-azure.vercel.app/stats?username=KingRaver&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF2BD6&icon_color=00F0FF&ring_color=FFF01F&text_color=E8FFE8" />
+<img width="49%" src="https://github-readme-activity-graph-rho-azure.vercel.app/streak?username=KingRaver&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=FFF01F&title_color=00F0FF" />
 
-<img width="49%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=KingRaver&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=39FF14&text_color=E8FFE8" />
+<img width="49%" src="https://github-readme-activity-graph-rho-azure.vercel.app/top-langs?username=KingRaver&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=39FF14&text_color=E8FFE8" />
 <img width="49%" src="https://github-readme-activity-graph-rho-azure.vercel.app/graph?username=KingRaver&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=E8FFE8&title_color=BF5FFF&line=00F0FF&point=FF2BD6" />
 
 <picture>
@@ -149,6 +149,13 @@ class VividVisions:
 - 📊 **Temporal & Behavioral Modeling** – Pattern discovery across time-series, events, and operational data  
 - 🧩 **Decision Intelligence** – Scoring, ranking, synthesis, and human-in-the-loop reasoning systems  
 - ⚙️ **AI Infrastructure** – Efficient inference, observability, and production-grade deployment for constrained environments
+
+---
+
+## 📝 **Latest from the Substack**
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 ---
 
