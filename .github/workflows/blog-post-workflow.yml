@@ -1,0 +1,18 @@
+name: Latest Substack Posts
+
+on:
+  schedule:
+    - cron: "0 0 * * *"   # runs daily at midnight UTC
+  workflow_dispatch:        # lets you trigger it manually too
+
+jobs:
+  update-readme-with-blog:
+    runs-on: ubuntu-latest
+    name: Update README with latest Substack posts
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Pull in Substack posts
+        uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          feed_list: "https://jeffspirlock.substack.com/feed"
