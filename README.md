@@ -146,11 +146,15 @@ class VividVisions:
 
 <h3 align="center">🎪 <strong>Current Focus</strong></h3>
 
-- 🧠 **Specialized & Small Language Models** – Purpose-built models optimized for narrow domains and real-world constraints  
-- 🔍 **Context & Memory Systems** – Long-horizon context, retrieval, and adaptive memory without excessive model bloat  
-- 📊 **Temporal & Behavioral Modeling** – Pattern discovery across time-series, events, and operational data  
-- 🧩 **Decision Intelligence** – Scoring, ranking, synthesis, and human-in-the-loop reasoning systems  
-- ⚙️ **AI Infrastructure** – Efficient inference, observability, and production-grade deployment for constrained environments
+<div align="center">
+
+🧠 **Specialized & Small Language Models** – Purpose-built models optimized for narrow domains and real-world constraints<br>
+🔍 **Context & Memory Systems** – Long-horizon context, retrieval, and adaptive memory without excessive model bloat<br>
+📊 **Temporal & Behavioral Modeling** – Pattern discovery across time-series, events, and operational data<br>
+🧩 **Decision Intelligence** – Scoring, ranking, synthesis, and human-in-the-loop reasoning systems<br>
+⚙️ **AI Infrastructure** – Efficient inference, observability, and production-grade deployment for constrained environments
+
+</div>
 
 ---
 
