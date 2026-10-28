@@ -117,12 +117,12 @@ class VividVisions:
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-activity-graph-rho-azure.vercel.app/stats?username=KingRaver&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF2BD6&icon_color=00F0FF&ring_color=FFF01F&text_color=E8FFE8&cb=20261028" />
-<img width="49%" src="https://github-readme-activity-graph-rho-azure.vercel.app/streak?username=KingRaver&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=FFF01F&title_color=00F0FF" />
+<img width="49%" alt="KingRaver's GitHub stats" src="https://github-readme-activity-graph-rho-azure.vercel.app/stats?username=KingRaver&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF2BD6&icon_color=00F0FF&ring_color=FFF01F&text_color=E8FFE8&cb=20261028" />
+<img width="49%" alt="KingRaver's contribution streak" src="https://github-readme-activity-graph-rho-azure.vercel.app/streak?username=KingRaver&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=FFF01F&title_color=00F0FF" />
 
-<img width="100%" src="https://github-readme-activity-graph-rho-azure.vercel.app/graph?username=KingRaver&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=E8FFE8&title_color=BF5FFF&line=00F0FF&point=FF2BD6&show_private=true" />
+<img width="100%" alt="KingRaver's contribution activity over the last 31 days" src="https://github-readme-activity-graph-rho-azure.vercel.app/graph?username=KingRaver&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=E8FFE8&title_color=BF5FFF&line=00F0FF&point=FF2BD6&show_private=true" />
 
-<img width="49%" src="https://github-readme-activity-graph-rho-azure.vercel.app/top-langs?username=KingRaver&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=39FF14&text_color=E8FFE8&cb=20261028" />
+<img width="49%" alt="KingRaver's most used languages" src="https://github-readme-activity-graph-rho-azure.vercel.app/top-langs?username=KingRaver&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=39FF14&text_color=E8FFE8&cb=20261028" />
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KingRaver/KingRaver/output/github-contribution-grid-snake-dark.svg" />
