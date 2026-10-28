@@ -15,7 +15,11 @@
 
 <h2 align="center">🎨 <strong>The Studio</strong></h2>
 
+<div align="center">
+
 **[Vivid Visions](https://vividvisions.quest)** is a design and development studio pioneering intelligent systems, privacy-forward architectures, and immersive digital ecosystems. Our work sits at the confluence of computational intelligence, cognitive interface design, and emerging network technologies—transforming complex systems into elegant, human-centered experiences.
+
+</div>
 
 ```python
 Design Studio | Computational Intelligence | Cognitive Interfaces
