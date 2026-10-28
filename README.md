@@ -144,7 +144,8 @@ class VividVisions:
 
 </div>
 
-### 🎪 **Current Focus**
+<h3 align="center">🎪 <strong>Current Focus</strong></h3>
+
 - 🧠 **Specialized & Small Language Models** – Purpose-built models optimized for narrow domains and real-world constraints  
 - 🔍 **Context & Memory Systems** – Long-horizon context, retrieval, and adaptive memory without excessive model bloat  
 - 📊 **Temporal & Behavioral Modeling** – Pattern discovery across time-series, events, and operational data  
@@ -177,7 +178,8 @@ class VividVisions:
 
 </div>
 
-### 💼 **Open for:**
+<h3 align="center">💼 <strong>Open for:</strong></h3>
+
 - 🤝 Collaborations in AI, machine learning, and applied research
 - 🚀 Strategic partnerships in emerging tech and innovation  
 - 💡 Fellowships, residencies, and continuous learning opportunities
