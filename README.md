@@ -160,13 +160,18 @@ class VividVisions:
 
 <h2 align="center">📝 <strong>Latest from the Substack</strong></h2>
 
+<div align="center">
+
 <!-- BLOG-POST-LIST:START -->
-- [MiCA Didn&#39;t Just Regulate Crypto](https://jeffspirlock.substack.com/p/mica-didnt-just-regulate-crypto)
-- [Building the Future Together](https://jeffspirlock.substack.com/p/building-the-future-together)
-- [The Feast and the Famine](https://jeffspirlock.substack.com/p/the-feast-and-the-famine)
-- [Europe’s Innovation Iceberg](https://jeffspirlock.substack.com/p/europes-innovation-iceberg)
-- [The Comfort of Coherence](https://jeffspirlock.substack.com/p/the-comfort-of-coherence)
+[MiCA Didn&#39;t Just Regulate Crypto](https://jeffspirlock.substack.com/p/mica-didnt-just-regulate-crypto)<br>
+[Building the Future Together](https://jeffspirlock.substack.com/p/building-the-future-together)<br>
+[The Feast and the Famine](https://jeffspirlock.substack.com/p/the-feast-and-the-famine)<br>
+[Europe’s Innovation Iceberg](https://jeffspirlock.substack.com/p/europes-innovation-iceberg)<br>
+[The Comfort of Coherence](https://jeffspirlock.substack.com/p/the-comfort-of-coherence)<br>
+
 <!-- BLOG-POST-LIST:END -->
+
+</div>
 
 ---
 
