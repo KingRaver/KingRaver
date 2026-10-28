@@ -165,9 +165,9 @@ class VividVisions:
 
 <div align="center">
 
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/JeffSpirlock)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jeffspirlock/)
 [![Substack](https://img.shields.io/badge/Substack-FF6719?style=for-the-badge&logo=substack&logoColor=white)](https://substack.com/@neuralmosaic)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/JeffSpirlock)
 [![Linktree](https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/jeffspirlock)
 [![Website](https://img.shields.io/badge/vividvisions.quest-7C3AED?style=for-the-badge&logo=google-chrome&logoColor=white)](https://vividvisions.quest)
 
