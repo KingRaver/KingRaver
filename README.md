@@ -180,11 +180,15 @@ class VividVisions:
 
 <h3 align="center">💼 <strong>Open for:</strong></h3>
 
-- 🤝 Collaborations in AI, machine learning, and applied research
-- 🚀 Strategic partnerships in emerging tech and innovation  
-- 💡 Fellowships, residencies, and continuous learning opportunities
-- 💰 Investment and venture discussions around ML-driven products
-- 🎯 Speaking engagements on the future of AI, creativity, and finance
+<div align="center">
+
+🤝 Collaborations in AI, machine learning, and applied research<br>
+🚀 Strategic partnerships in emerging tech and innovation<br>
+💡 Fellowships, residencies, and continuous learning opportunities<br>
+💰 Investment and venture discussions around ML-driven products<br>
+🎯 Speaking engagements on the future of AI, creativity, and finance
+
+</div>
 
 ---
 
