@@ -120,8 +120,9 @@ class VividVisions:
 <img width="49%" src="https://github-readme-activity-graph-rho-azure.vercel.app/stats?username=KingRaver&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF2BD6&icon_color=00F0FF&ring_color=FFF01F&text_color=E8FFE8&cb=20261028" />
 <img width="49%" src="https://github-readme-activity-graph-rho-azure.vercel.app/streak?username=KingRaver&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=FFF01F&title_color=00F0FF" />
 
+<img width="100%" src="https://github-readme-activity-graph-rho-azure.vercel.app/graph?username=KingRaver&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=E8FFE8&title_color=BF5FFF&line=00F0FF&point=FF2BD6&show_private=true" />
+
 <img width="49%" src="https://github-readme-activity-graph-rho-azure.vercel.app/top-langs?username=KingRaver&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=39FF14&text_color=E8FFE8&cb=20261028" />
-<img width="49%" src="https://github-readme-activity-graph-rho-azure.vercel.app/graph?username=KingRaver&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=E8FFE8&title_color=BF5FFF&line=00F0FF&point=FF2BD6" />
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KingRaver/KingRaver/output/github-contribution-grid-snake-dark.svg" />
@@ -168,7 +169,7 @@ class VividVisions:
 
 <div align="center">
 
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/JeffSpirlock)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/JeffSpirlock)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jeffspirlock/)
 [![Substack](https://img.shields.io/badge/Substack-FF6719?style=for-the-badge&logo=substack&logoColor=white)](https://substack.com/@neuralmosaic)
 [![Linktree](https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/jeffspirlock)
