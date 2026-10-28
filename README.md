@@ -117,10 +117,10 @@ class VividVisions:
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-activity-graph-rho-azure.vercel.app/stats?username=KingRaver&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF2BD6&icon_color=00F0FF&ring_color=FFF01F&text_color=E8FFE8" />
+<img width="49%" src="https://github-readme-activity-graph-rho-azure.vercel.app/stats?username=KingRaver&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF2BD6&icon_color=00F0FF&ring_color=FFF01F&text_color=E8FFE8&cb=20261028" />
 <img width="49%" src="https://github-readme-activity-graph-rho-azure.vercel.app/streak?username=KingRaver&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=FFF01F&title_color=00F0FF" />
 
-<img width="49%" src="https://github-readme-activity-graph-rho-azure.vercel.app/top-langs?username=KingRaver&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=39FF14&text_color=E8FFE8" />
+<img width="49%" src="https://github-readme-activity-graph-rho-azure.vercel.app/top-langs?username=KingRaver&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=39FF14&text_color=E8FFE8&cb=20261028" />
 <img width="49%" src="https://github-readme-activity-graph-rho-azure.vercel.app/graph?username=KingRaver&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=E8FFE8&title_color=BF5FFF&line=00F0FF&point=FF2BD6" />
 
 <picture>
