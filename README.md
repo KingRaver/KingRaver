@@ -15,7 +15,11 @@
 
 <h2 align="center">🎨 <strong>The Studio</strong></h2>
 
+<div align="center">
+
 **[Vivid Visions](https://vividvisions.quest)** is a design and development studio pioneering intelligent systems, privacy-forward architectures, and immersive digital ecosystems. Our work sits at the confluence of computational intelligence, cognitive interface design, and emerging network technologies—transforming complex systems into elegant, human-centered experiences.
+
+</div>
 
 ```python
 Design Studio | Computational Intelligence | Cognitive Interfaces
@@ -146,23 +150,32 @@ class VividVisions:
 
 <h3 align="center">🎪 <strong>Current Focus</strong></h3>
 
-- 🧠 **Specialized & Small Language Models** – Purpose-built models optimized for narrow domains and real-world constraints  
-- 🔍 **Context & Memory Systems** – Long-horizon context, retrieval, and adaptive memory without excessive model bloat  
-- 📊 **Temporal & Behavioral Modeling** – Pattern discovery across time-series, events, and operational data  
-- 🧩 **Decision Intelligence** – Scoring, ranking, synthesis, and human-in-the-loop reasoning systems  
-- ⚙️ **AI Infrastructure** – Efficient inference, observability, and production-grade deployment for constrained environments
+<div align="center">
+
+🧠 **Specialized & Small Language Models** – Purpose-built models optimized for narrow domains and real-world constraints<br>
+🔍 **Context & Memory Systems** – Long-horizon context, retrieval, and adaptive memory without excessive model bloat<br>
+📊 **Temporal & Behavioral Modeling** – Pattern discovery across time-series, events, and operational data<br>
+🧩 **Decision Intelligence** – Scoring, ranking, synthesis, and human-in-the-loop reasoning systems<br>
+⚙️ **AI Infrastructure** – Efficient inference, observability, and production-grade deployment for constrained environments
+
+</div>
 
 ---
 
 <h2 align="center">📝 <strong>Latest from the Substack</strong></h2>
 
+<div align="center">
+
 <!-- BLOG-POST-LIST:START -->
-- [MiCA Didn&#39;t Just Regulate Crypto](https://jeffspirlock.substack.com/p/mica-didnt-just-regulate-crypto)
-- [Building the Future Together](https://jeffspirlock.substack.com/p/building-the-future-together)
-- [The Feast and the Famine](https://jeffspirlock.substack.com/p/the-feast-and-the-famine)
-- [Europe’s Innovation Iceberg](https://jeffspirlock.substack.com/p/europes-innovation-iceberg)
-- [The Comfort of Coherence](https://jeffspirlock.substack.com/p/the-comfort-of-coherence)
+[MiCA Didn&#39;t Just Regulate Crypto](https://jeffspirlock.substack.com/p/mica-didnt-just-regulate-crypto)<br>
+[Building the Future Together](https://jeffspirlock.substack.com/p/building-the-future-together)<br>
+[The Feast and the Famine](https://jeffspirlock.substack.com/p/the-feast-and-the-famine)<br>
+[Europe’s Innovation Iceberg](https://jeffspirlock.substack.com/p/europes-innovation-iceberg)<br>
+[The Comfort of Coherence](https://jeffspirlock.substack.com/p/the-comfort-of-coherence)<br>
+
 <!-- BLOG-POST-LIST:END -->
+
+</div>
 
 ---
 
@@ -180,11 +193,15 @@ class VividVisions:
 
 <h3 align="center">💼 <strong>Open for:</strong></h3>
 
-- 🤝 Collaborations in AI, machine learning, and applied research
-- 🚀 Strategic partnerships in emerging tech and innovation  
-- 💡 Fellowships, residencies, and continuous learning opportunities
-- 💰 Investment and venture discussions around ML-driven products
-- 🎯 Speaking engagements on the future of AI, creativity, and finance
+<div align="center">
+
+🤝 Collaborations in AI, machine learning, and applied research<br>
+🚀 Strategic partnerships in emerging tech and innovation<br>
+💡 Fellowships, residencies, and continuous learning opportunities<br>
+💰 Investment and venture discussions around ML-driven products<br>
+🎯 Speaking engagements on the future of AI, creativity, and finance
+
+</div>
 
 ---
 

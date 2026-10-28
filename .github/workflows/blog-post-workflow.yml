@@ -18,3 +18,8 @@ jobs:
           # Substack 403s GitHub's runners, so read jeffspirlock.substack.com/feed through the
           # /substack-feed proxy route on the github-readme-activity-graph Vercel project
           feed_list: "https://github-readme-activity-graph-rho-azure.vercel.app/substack-feed"
+          # One centered line per post (the README wraps the list in a centered div) instead of
+          # the default markdown list, whose bullet dots stay at the left edge when centered
+          template: "[$title]($url)<br>$newline"
+          # A custom template turns this off; keep the posts off the marker comment lines
+          tag_post_pre_newline: true
