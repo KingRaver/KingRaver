@@ -17,9 +17,7 @@
 
 **[Vivid Visions](https://vividvisions.quest)** is a design and development studio pioneering intelligent systems, privacy-forward architectures, and immersive digital ecosystems. Our work sits at the confluence of computational intelligence, cognitive interface design, and emerging network technologies—transforming complex systems into elegant, human-centered experiences.
 
-<div align="center">
-
-<pre><code>
+```python
 Design Studio | Computational Intelligence | Cognitive Interfaces
 
 class VividVisions:
@@ -42,9 +40,7 @@ class VividVisions:
 >>> studio = VividVisions()
 >>> studio.build()
 'Turning vision into digital reality'
-</code></pre>
-
-</div>
+```
 
 
 ---
@@ -117,11 +113,12 @@ class VividVisions:
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-activity-graph-rho-azure.vercel.app/stats?username=KingRaver&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF2BD6&icon_color=00F0FF&ring_color=FFF01F&text_color=E8FFE8&cb=20261028" />
-<img width="49%" src="https://github-readme-activity-graph-rho-azure.vercel.app/streak?username=KingRaver&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=FFF01F&title_color=00F0FF" />
+<img width="49%" alt="KingRaver's GitHub stats" src="https://github-readme-activity-graph-rho-azure.vercel.app/stats?username=KingRaver&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF2BD6&icon_color=00F0FF&ring_color=FFF01F&text_color=E8FFE8&cb=20261028" />
+<img width="49%" alt="KingRaver's contribution streak" src="https://github-readme-activity-graph-rho-azure.vercel.app/streak?username=KingRaver&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=FFF01F&title_color=00F0FF" />
 
-<img width="49%" src="https://github-readme-activity-graph-rho-azure.vercel.app/top-langs?username=KingRaver&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=39FF14&text_color=E8FFE8&cb=20261028" />
-<img width="49%" src="https://github-readme-activity-graph-rho-azure.vercel.app/graph?username=KingRaver&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=E8FFE8&title_color=BF5FFF&line=00F0FF&point=FF2BD6" />
+<img width="100%" alt="KingRaver's contribution activity over the last 31 days" src="https://github-readme-activity-graph-rho-azure.vercel.app/graph?username=KingRaver&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=E8FFE8&title_color=BF5FFF&line=00F0FF&point=FF2BD6&show_private=true" />
+
+<img width="49%" alt="KingRaver's most used languages" src="https://github-readme-activity-graph-rho-azure.vercel.app/top-langs?username=KingRaver&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=39FF14&text_color=E8FFE8&cb=20261028" />
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KingRaver/KingRaver/output/github-contribution-grid-snake-dark.svg" />
@@ -168,11 +165,13 @@ class VividVisions:
 
 <div align="center">
 
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/JeffSpirlock)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/JeffSpirlock)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jeffspirlock/)
 [![Substack](https://img.shields.io/badge/Substack-FF6719?style=for-the-badge&logo=substack&logoColor=white)](https://substack.com/@neuralmosaic)
 [![Linktree](https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/jeffspirlock)
 [![Website](https://img.shields.io/badge/vividvisions.quest-7C3AED?style=for-the-badge&logo=google-chrome&logoColor=white)](https://vividvisions.quest)
+
+</div>
 
 ### 💼 **Open for:**
 - 🤝 Collaborations in AI, machine learning, and applied research
@@ -180,8 +179,6 @@ class VividVisions:
 - 💡 Fellowships, residencies, and continuous learning opportunities
 - 💰 Investment and venture discussions around ML-driven products
 - 🎯 Speaking engagements on the future of AI, creativity, and finance
-
-</div>
 
 ---
 
