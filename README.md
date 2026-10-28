@@ -155,6 +155,11 @@ class VividVisions:
 ## 📝 **Latest from the Substack**
 
 <!-- BLOG-POST-LIST:START -->
+- [MiCA Didn&#39;t Just Regulate Crypto](https://jeffspirlock.substack.com/p/mica-didnt-just-regulate-crypto)
+- [Building the Future Together](https://jeffspirlock.substack.com/p/building-the-future-together)
+- [The Feast and the Famine](https://jeffspirlock.substack.com/p/the-feast-and-the-famine)
+- [Europe’s Innovation Iceberg](https://jeffspirlock.substack.com/p/europes-innovation-iceberg)
+- [The Comfort of Coherence](https://jeffspirlock.substack.com/p/the-comfort-of-coherence)
 <!-- BLOG-POST-LIST:END -->
 
 ---
