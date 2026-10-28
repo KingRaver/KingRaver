@@ -13,7 +13,7 @@
 
 ---
 
-## 🎨 **The Studio**
+<h2 align="center">🎨 <strong>The Studio</strong></h2>
 
 **[Vivid Visions](https://vividvisions.quest)** is a design and development studio pioneering intelligent systems, privacy-forward architectures, and immersive digital ecosystems. Our work sits at the confluence of computational intelligence, cognitive interface design, and emerging network technologies—transforming complex systems into elegant, human-centered experiences.
 
@@ -45,7 +45,7 @@ class VividVisions:
 
 ---
 
-## 🚀 **Active Ventures**
+<h2 align="center">🚀 <strong>Active Ventures</strong></h2>
 
 <div align="center">
 
@@ -105,11 +105,15 @@ class VividVisions:
 
 ---
 
+<div align="center">
+
 [![Tech Stack](https://img.shields.io/badge/%E2%9C%A8%20Tech%20Stack-Explore-01696f?style=for-the-badge)](https://github.com/KingRaver/TECH_STACK.md)
+
+</div>
 
 ---
 
-## 📈 **GitHub Intelligence**
+<h2 align="center">📈 <strong>GitHub Intelligence</strong></h2>
 
 <div align="center">
 
@@ -130,7 +134,7 @@ class VividVisions:
 
 ---
 
-## 🌌 **The Vision**
+<h2 align="center">🌌 <strong>The Vision</strong></h2>
 
 <div align="center">
 
@@ -149,7 +153,7 @@ class VividVisions:
 
 ---
 
-## 📝 **Latest from the Substack**
+<h2 align="center">📝 <strong>Latest from the Substack</strong></h2>
 
 <!-- BLOG-POST-LIST:START -->
 - [MiCA Didn&#39;t Just Regulate Crypto](https://jeffspirlock.substack.com/p/mica-didnt-just-regulate-crypto)
@@ -161,7 +165,7 @@ class VividVisions:
 
 ---
 
-## 🌐 **Connect & Collaborate**
+<h2 align="center">🌐 <strong>Connect &amp; Collaborate</strong></h2>
 
 <div align="center">
 
