@@ -15,6 +15,6 @@ jobs:
       - name: Pull in Substack posts
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          feed_list: "https://jeffspirlock.substack.com/feed"
-          # The default "rss-parser" user agent got a 403 from Substack on GitHub's runners
-          user_agent: "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
+          # Substack 403s GitHub's runners, so read jeffspirlock.substack.com/feed through the
+          # /substack-feed proxy route on the github-readme-activity-graph Vercel project
+          feed_list: "https://github-readme-activity-graph-rho-azure.vercel.app/substack-feed"
