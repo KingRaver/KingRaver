@@ -17,9 +17,7 @@
 
 **[Vivid Visions](https://vividvisions.quest)** is a design and development studio pioneering intelligent systems, privacy-forward architectures, and immersive digital ecosystems. Our work sits at the confluence of computational intelligence, cognitive interface design, and emerging network technologies—transforming complex systems into elegant, human-centered experiences.
 
-<div align="center">
-
-<pre><code>
+```python
 Design Studio | Computational Intelligence | Cognitive Interfaces
 
 class VividVisions:
@@ -42,9 +40,7 @@ class VividVisions:
 >>> studio = VividVisions()
 >>> studio.build()
 'Turning vision into digital reality'
-</code></pre>
-
-</div>
+```
 
 
 ---
@@ -175,14 +171,14 @@ class VividVisions:
 [![Linktree](https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/jeffspirlock)
 [![Website](https://img.shields.io/badge/vividvisions.quest-7C3AED?style=for-the-badge&logo=google-chrome&logoColor=white)](https://vividvisions.quest)
 
+</div>
+
 ### 💼 **Open for:**
 - 🤝 Collaborations in AI, machine learning, and applied research
 - 🚀 Strategic partnerships in emerging tech and innovation  
 - 💡 Fellowships, residencies, and continuous learning opportunities
 - 💰 Investment and venture discussions around ML-driven products
 - 🎯 Speaking engagements on the future of AI, creativity, and finance
-
-</div>
 
 ---
 
